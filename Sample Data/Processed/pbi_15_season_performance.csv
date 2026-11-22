@@ -1,0 +1,241 @@
+season,category,brand,total_revenue,total_orders,avg_margin,avg_discount,return_rate,total_units,return_rate_pct
+Festive,Accessories,Bewakoof,525665.5,509,49.2,13.9,0.09,1001,9.0
+Festive,Accessories,FabAlley,827570.5,550,48.96,14.18,0.13,1057,13.0
+Festive,Accessories,H&M India,1083653.5,578,49.71,13.29,0.15,1121,15.0
+Festive,Accessories,Libas,723338.5,548,50.35,14.4,0.11,1086,11.0
+Festive,Accessories,Myntra M,711027.5,569,48.2,13.1,0.1,1153,10.0
+Festive,Accessories,Snitch,776580.0,484,48.98,13.63,0.12,969,12.0
+Festive,Accessories,Styli,800359.0,536,50.72,13.66,0.14,973,14.0
+Festive,Accessories,The Souled Store,566547.5,531,50.3,13.55,0.09,1029,9.0
+Festive,Accessories,Urbanic,930639.5,560,51.14,12.95,0.14,1052,14.0
+Festive,Accessories,Zudio,367762.5,540,50.3,12.65,0.11,1030,11.0
+Festive,Bottomwear,Bewakoof,969016.5,556,49.97,13.78,0.29,1139,29.0
+Festive,Bottomwear,FabAlley,1286480.5,504,49.05,13.98,0.26,953,26.0
+Festive,Bottomwear,H&M India,1728735.5,574,51.59,13.76,0.23,1120,23.0
+Festive,Bottomwear,Libas,1299718.0,556,51.57,13.17,0.26,1121,26.0
+Festive,Bottomwear,Myntra M,1161208.0,553,50.97,13.25,0.27,1097,27.0
+Festive,Bottomwear,Snitch,1368021.5,541,51.91,12.83,0.28,990,28.0
+Festive,Bottomwear,Styli,1364364.0,514,48.71,13.37,0.22,998,22.0
+Festive,Bottomwear,The Souled Store,1038660.5,550,48.96,13.08,0.29,1046,29.0
+Festive,Bottomwear,Urbanic,1503949.5,553,47.87,12.99,0.25,1038,25.0
+Festive,Bottomwear,Zudio,631676.0,539,49.48,14.07,0.27,1035,27.0
+Festive,Dresses,Bewakoof,856117.0,390,52.3,12.19,0.24,740,24.0
+Festive,Dresses,FabAlley,1403693.0,410,51.19,13.07,0.29,816,29.0
+Festive,Dresses,H&M India,1550115.5,400,47.49,13.22,0.24,775,24.0
+Festive,Dresses,Libas,969338.5,371,49.12,13.14,0.3,682,30.0
+Festive,Dresses,Myntra M,1158771.5,443,50.96,13.06,0.28,876,28.0
+Festive,Dresses,Snitch,1302482.5,372,49.66,14.09,0.28,734,28.0
+Festive,Dresses,Styli,1281852.5,368,48.93,13.53,0.27,701,27.0
+Festive,Dresses,The Souled Store,948768.0,390,51.52,13.1,0.29,789,29.0
+Festive,Dresses,Urbanic,1425191.5,412,48.81,12.77,0.27,787,27.0
+Festive,Dresses,Zudio,568298.5,360,49.41,13.64,0.27,707,27.0
+Festive,Ethnic,Bewakoof,1133253.5,455,50.06,13.46,0.11,887,11.0
+Festive,Ethnic,FabAlley,1786113.0,469,48.44,13.91,0.12,923,12.0
+Festive,Ethnic,H&M India,1862688.0,426,50.64,13.16,0.11,801,11.0
+Festive,Ethnic,Libas,1440577.0,449,51.66,12.81,0.1,878,10.0
+Festive,Ethnic,Myntra M,1435940.0,453,50.43,13.23,0.12,918,12.0
+Festive,Ethnic,Snitch,1885535.0,483,49.91,14.34,0.12,926,12.0
+Festive,Ethnic,Styli,1680702.0,445,50.04,13.31,0.13,796,13.0
+Festive,Ethnic,The Souled Store,1311413.0,473,50.25,12.72,0.08,920,8.0
+Festive,Ethnic,Urbanic,1883470.0,453,49.11,13.07,0.1,834,10.0
+Festive,Ethnic,Zudio,823319.5,481,49.09,14.71,0.1,926,10.0
+Festive,Footwear,Bewakoof,1246036.5,424,50.28,13.31,0.1,798,10.0
+Festive,Footwear,FabAlley,2109265.0,467,50.06,12.78,0.11,893,11.0
+Festive,Footwear,H&M India,2653007.5,492,50.87,13.54,0.1,972,10.0
+Festive,Footwear,Libas,1688018.5,430,49.06,13.37,0.11,825,11.0
+Festive,Footwear,Myntra M,1720646.5,490,49.58,13.63,0.1,941,10.0
+Festive,Footwear,Snitch,2333774.5,484,48.01,12.83,0.12,924,12.0
+Festive,Footwear,Styli,2065928.0,447,51.69,13.91,0.09,848,9.0
+Festive,Footwear,The Souled Store,1370936.0,438,50.05,13.15,0.09,829,9.0
+Festive,Footwear,Urbanic,2604550.5,499,51.8,13.31,0.1,985,10.0
+Festive,Footwear,Zudio,966825.5,451,51.35,13.1,0.1,871,10.0
+Festive,Topwear,Bewakoof,701325.5,562,48.75,13.91,0.27,1065,27.0
+Festive,Topwear,FabAlley,1218104.5,609,50.39,12.52,0.23,1209,23.0
+Festive,Topwear,H&M India,1431233.5,602,46.55,13.58,0.27,1192,27.0
+Festive,Topwear,Libas,1023325.5,579,48.93,13.13,0.24,1128,24.0
+Festive,Topwear,Myntra M,1044636.0,638,49.77,13.32,0.28,1244,28.0
+Festive,Topwear,Snitch,1287502.0,606,49.02,12.33,0.29,1115,29.0
+Festive,Topwear,Styli,1299799.5,595,49.67,12.11,0.27,1152,27.0
+Festive,Topwear,The Souled Store,930219.5,617,47.68,13.41,0.27,1224,27.0
+Festive,Topwear,Urbanic,1472471.5,655,47.19,13.63,0.27,1289,27.0
+Festive,Topwear,Zudio,534994.5,598,48.6,13.68,0.25,1110,25.0
+Monsoon,Accessories,Bewakoof,591563.0,566,50.72,12.46,0.1,1109,10.0
+Monsoon,Accessories,FabAlley,795766.5,523,49.12,13.47,0.14,1013,14.0
+Monsoon,Accessories,H&M India,983755.0,534,49.23,13.26,0.13,1021,13.0
+Monsoon,Accessories,Libas,720383.5,538,50.71,13.32,0.09,1063,9.0
+Monsoon,Accessories,Myntra M,622888.5,522,48.91,12.83,0.11,1003,11.0
+Monsoon,Accessories,Snitch,856821.5,545,48.56,13.62,0.11,1039,11.0
+Monsoon,Accessories,Styli,938114.0,564,51.02,13.49,0.12,1134,12.0
+Monsoon,Accessories,The Souled Store,568098.5,511,50.49,13.11,0.13,1018,13.0
+Monsoon,Accessories,Urbanic,987566.5,557,50.61,13.14,0.11,1111,11.0
+Monsoon,Accessories,Zudio,394769.0,569,49.62,13.59,0.12,1113,12.0
+Monsoon,Bottomwear,Bewakoof,879397.0,516,50.38,13.28,0.28,1018,28.0
+Monsoon,Bottomwear,FabAlley,1344779.0,520,49.76,12.62,0.24,983,24.0
+Monsoon,Bottomwear,H&M India,1628884.0,546,52.19,13.14,0.28,1051,28.0
+Monsoon,Bottomwear,Libas,1124572.0,514,51.77,13.12,0.27,968,27.0
+Monsoon,Bottomwear,Myntra M,1088677.0,543,49.41,14.53,0.23,1045,23.0
+Monsoon,Bottomwear,Snitch,1428120.0,550,51.68,13.57,0.3,1039,30.0
+Monsoon,Bottomwear,Styli,1416247.5,544,48.08,13.54,0.27,1047,27.0
+Monsoon,Bottomwear,The Souled Store,1003034.5,528,48.86,13.66,0.25,1029,25.0
+Monsoon,Bottomwear,Urbanic,1581211.0,570,47.39,13.48,0.26,1108,26.0
+Monsoon,Bottomwear,Zudio,663504.0,553,50.04,13.05,0.29,1076,29.0
+Monsoon,Dresses,Bewakoof,745052.0,358,51.22,13.58,0.28,660,28.0
+Monsoon,Dresses,FabAlley,1409671.5,409,51.74,12.51,0.26,807,26.0
+Monsoon,Dresses,H&M India,1412187.0,379,46.77,14.38,0.28,719,28.0
+Monsoon,Dresses,Libas,1058183.0,382,48.57,13.7,0.26,747,26.0
+Monsoon,Dresses,Myntra M,964950.0,371,50.62,13.6,0.23,721,23.0
+Monsoon,Dresses,Snitch,1416626.5,417,50.97,12.34,0.3,783,30.0
+Monsoon,Dresses,Styli,1319078.5,358,49.19,13.14,0.3,711,30.0
+Monsoon,Dresses,The Souled Store,1025759.5,433,51.82,12.79,0.29,855,29.0
+Monsoon,Dresses,Urbanic,1303969.0,388,47.94,14.33,0.24,731,24.0
+Monsoon,Dresses,Zudio,570517.0,374,49.78,14.21,0.3,721,30.0
+Monsoon,Ethnic,Bewakoof,1135196.0,450,49.88,13.82,0.09,881,9.0
+Monsoon,Ethnic,FabAlley,1628774.5,435,49.82,12.7,0.14,824,14.0
+Monsoon,Ethnic,H&M India,2179099.0,469,50.18,13.21,0.14,933,14.0
+Monsoon,Ethnic,Libas,1372715.5,417,51.23,13.43,0.13,832,13.0
+Monsoon,Ethnic,Myntra M,1474707.5,477,50.18,13.77,0.14,949,14.0
+Monsoon,Ethnic,Snitch,1813571.0,472,50.23,13.08,0.14,894,14.0
+Monsoon,Ethnic,Styli,1829583.5,459,50.58,13.06,0.13,877,13.0
+Monsoon,Ethnic,The Souled Store,1376456.5,476,50.68,13.12,0.13,976,13.0
+Monsoon,Ethnic,Urbanic,2099131.5,476,48.59,13.24,0.09,935,9.0
+Monsoon,Ethnic,Zudio,830597.0,463,49.31,13.62,0.13,932,13.0
+Monsoon,Footwear,Bewakoof,1520075.5,504,50.52,13.03,0.14,967,14.0
+Monsoon,Footwear,FabAlley,2079038.0,465,48.94,13.75,0.11,888,11.0
+Monsoon,Footwear,H&M India,2437237.5,446,51.48,13.04,0.12,888,12.0
+Monsoon,Footwear,Libas,1845331.5,455,49.34,13.3,0.13,896,13.0
+Monsoon,Footwear,Myntra M,1680133.5,457,49.79,13.13,0.13,910,13.0
+Monsoon,Footwear,Snitch,2430865.5,502,47.82,13.24,0.15,973,15.0
+Monsoon,Footwear,Styli,2002243.5,443,51.55,14.13,0.13,819,13.0
+Monsoon,Footwear,The Souled Store,1435627.0,447,49.69,13.56,0.1,861,10.0
+Monsoon,Footwear,Urbanic,2498476.5,483,52.22,12.72,0.13,932,13.0
+Monsoon,Footwear,Zudio,953801.5,474,51.04,13.62,0.09,863,9.0
+Monsoon,Topwear,Bewakoof,770612.0,621,49.42,13.41,0.27,1159,27.0
+Monsoon,Topwear,FabAlley,1193678.0,623,49.51,13.9,0.26,1195,26.0
+Monsoon,Topwear,H&M India,1467402.5,638,47.08,12.95,0.32,1210,32.0
+Monsoon,Topwear,Libas,1127395.0,660,49.59,13.05,0.25,1246,25.0
+Monsoon,Topwear,Myntra M,983473.5,622,50.44,12.27,0.28,1164,28.0
+Monsoon,Topwear,Snitch,1252718.5,578,48.62,12.94,0.25,1091,25.0
+Monsoon,Topwear,Styli,1255861.0,600,48.19,13.95,0.26,1140,26.0
+Monsoon,Topwear,The Souled Store,992225.0,655,47.27,13.68,0.24,1298,24.0
+Monsoon,Topwear,Urbanic,1301607.5,599,46.79,14.27,0.26,1143,26.0
+Monsoon,Topwear,Zudio,526747.5,591,48.76,13.71,0.25,1101,25.0
+Summer,Accessories,Bewakoof,512397.5,511,49.86,12.97,0.12,973,12.0
+Summer,Accessories,FabAlley,812584.5,520,49.69,13.24,0.11,1016,11.0
+Summer,Accessories,H&M India,946511.5,539,49.37,13.62,0.09,988,9.0
+Summer,Accessories,Libas,718143.0,550,50.23,13.94,0.1,1062,10.0
+Summer,Accessories,Myntra M,733893.0,583,48.28,13.48,0.11,1192,11.0
+Summer,Accessories,Snitch,779407.0,494,49.16,12.59,0.12,954,12.0
+Summer,Accessories,Styli,892573.0,549,50.64,13.68,0.12,1070,12.0
+Summer,Accessories,The Souled Store,593065.5,536,50.72,13.3,0.12,1066,12.0
+Summer,Accessories,Urbanic,918430.5,560,50.35,13.35,0.11,1044,11.0
+Summer,Accessories,Zudio,373418.5,543,49.2,13.77,0.11,1055,11.0
+Summer,Bottomwear,Bewakoof,875559.5,526,49.64,13.96,0.27,1014,27.0
+Summer,Bottomwear,FabAlley,1524255.0,537,49.19,13.52,0.26,1122,26.0
+Summer,Bottomwear,H&M India,1788190.5,568,50.81,13.93,0.26,1156,26.0
+Summer,Bottomwear,Libas,1323325.0,582,51.45,13.35,0.26,1149,26.0
+Summer,Bottomwear,Myntra M,1070386.5,530,50.15,14.05,0.29,1030,29.0
+Summer,Bottomwear,Snitch,1391731.0,517,51.19,13.64,0.3,1028,30.0
+Summer,Bottomwear,Styli,1562571.0,605,48.59,13.45,0.26,1152,26.0
+Summer,Bottomwear,The Souled Store,1030730.5,526,48.86,13.2,0.26,1041,26.0
+Summer,Bottomwear,Urbanic,1511980.0,539,47.37,13.78,0.27,1059,27.0
+Summer,Bottomwear,Zudio,679893.5,581,49.94,13.61,0.27,1102,27.0
+Summer,Dresses,Bewakoof,803715.0,371,51.75,12.75,0.31,700,31.0
+Summer,Dresses,FabAlley,1208315.0,362,50.91,13.87,0.3,700,30.0
+Summer,Dresses,H&M India,1582377.5,406,47.28,13.72,0.26,793,26.0
+Summer,Dresses,Libas,1028215.0,388,48.47,13.8,0.26,729,26.0
+Summer,Dresses,Myntra M,970571.0,376,50.43,13.3,0.27,725,27.0
+Summer,Dresses,Snitch,1213586.5,353,50.16,12.93,0.3,673,30.0
+Summer,Dresses,Styli,1333608.0,364,49.29,13.35,0.25,720,25.0
+Summer,Dresses,The Souled Store,943118.5,412,50.93,13.98,0.28,800,28.0
+Summer,Dresses,Urbanic,1483453.0,420,49.02,12.61,0.32,809,32.0
+Summer,Dresses,Zudio,626638.0,396,50.75,12.88,0.31,779,31.0
+Summer,Ethnic,Bewakoof,1076933.0,438,50.24,12.93,0.11,821,11.0
+Summer,Ethnic,FabAlley,1618139.5,441,49.78,12.12,0.11,813,11.0
+Summer,Ethnic,H&M India,2288666.0,499,50.19,13.33,0.09,986,9.0
+Summer,Ethnic,Libas,1350248.0,425,50.51,13.69,0.12,833,12.0
+Summer,Ethnic,Myntra M,1461999.5,488,49.72,14.13,0.12,951,12.0
+Summer,Ethnic,Snitch,1838173.0,466,50.39,13.35,0.12,895,12.0
+Summer,Ethnic,Styli,1938606.0,475,50.78,12.85,0.11,925,11.0
+Summer,Ethnic,The Souled Store,1177427.5,434,49.74,14.6,0.1,862,10.0
+Summer,Ethnic,Urbanic,2060202.5,464,48.67,13.15,0.11,919,11.0
+Summer,Ethnic,Zudio,779236.0,472,49.51,13.54,0.11,869,11.0
+Summer,Footwear,Bewakoof,1363854.5,472,49.85,13.24,0.11,883,11.0
+Summer,Footwear,FabAlley,2007419.5,448,49.48,13.37,0.14,848,14.0
+Summer,Footwear,H&M India,2537922.5,478,50.16,13.72,0.12,931,12.0
+Summer,Footwear,Libas,1789511.0,436,49.21,12.74,0.15,863,15.0
+Summer,Footwear,Myntra M,1595048.0,441,49.42,13.12,0.13,866,13.0
+Summer,Footwear,Snitch,2265919.0,460,47.83,13.57,0.13,906,13.0
+Summer,Footwear,Styli,2209098.0,468,52.0,13.55,0.11,895,11.0
+Summer,Footwear,The Souled Store,1630189.5,493,50.02,13.27,0.11,981,11.0
+Summer,Footwear,Urbanic,2352344.0,480,51.77,13.69,0.15,906,15.0
+Summer,Footwear,Zudio,1063712.0,463,52.08,12.16,0.12,936,12.0
+Summer,Topwear,Bewakoof,786208.5,599,49.84,13.07,0.28,1183,28.0
+Summer,Topwear,FabAlley,1167211.0,608,49.74,13.28,0.23,1172,23.0
+Summer,Topwear,H&M India,1369003.5,573,46.87,12.87,0.25,1106,25.0
+Summer,Topwear,Libas,992501.0,596,48.89,13.3,0.28,1105,28.0
+Summer,Topwear,Myntra M,1025389.5,632,49.13,14.27,0.25,1220,25.0
+Summer,Topwear,Snitch,1184264.5,565,47.92,13.64,0.29,1043,29.0
+Summer,Topwear,Styli,1229310.5,557,48.03,13.78,0.31,1099,31.0
+Summer,Topwear,The Souled Store,861632.5,603,46.94,14.07,0.24,1132,24.0
+Summer,Topwear,Urbanic,1239968.5,583,48.26,12.5,0.29,1079,29.0
+Summer,Topwear,Zudio,573484.5,618,48.54,13.15,0.28,1175,28.0
+Winter,Accessories,Bewakoof,487864.5,506,49.94,13.4,0.1,928,10.0
+Winter,Accessories,FabAlley,802030.5,528,49.29,13.42,0.11,1012,11.0
+Winter,Accessories,H&M India,1007979.5,543,49.13,13.83,0.13,1045,13.0
+Winter,Accessories,Libas,661735.5,508,51.31,13.11,0.13,974,13.0
+Winter,Accessories,Myntra M,598636.5,545,48.81,12.85,0.12,962,12.0
+Winter,Accessories,Snitch,806343.0,541,48.24,13.71,0.11,1011,11.0
+Winter,Accessories,Styli,874235.0,534,51.48,13.27,0.11,1053,11.0
+Winter,Accessories,The Souled Store,521237.0,504,49.64,14.29,0.12,947,12.0
+Winter,Accessories,Urbanic,892221.0,519,50.99,12.48,0.11,999,11.0
+Winter,Accessories,Zudio,353590.0,531,49.53,13.47,0.11,1004,11.0
+Winter,Bottomwear,Bewakoof,919733.0,548,49.19,14.04,0.26,1066,26.0
+Winter,Bottomwear,FabAlley,1512468.5,579,48.95,13.99,0.25,1126,25.0
+Winter,Bottomwear,H&M India,1595934.5,554,51.62,13.8,0.28,1040,28.0
+Winter,Bottomwear,Libas,1212044.0,549,51.32,13.45,0.25,1042,25.0
+Winter,Bottomwear,Myntra M,1065170.5,500,50.97,13.36,0.23,1006,23.0
+Winter,Bottomwear,Snitch,1419545.5,533,51.61,13.4,0.28,1032,28.0
+Winter,Bottomwear,Styli,1429719.5,530,48.79,12.75,0.28,1048,28.0
+Winter,Bottomwear,The Souled Store,952017.5,522,47.67,14.39,0.27,979,27.0
+Winter,Bottomwear,Urbanic,1418374.0,504,47.94,12.81,0.25,984,25.0
+Winter,Bottomwear,Zudio,627380.5,528,49.8,13.57,0.26,1033,26.0
+Winter,Dresses,Bewakoof,926040.0,419,51.03,14.0,0.33,820,33.0
+Winter,Dresses,FabAlley,1140344.5,373,50.21,14.28,0.28,661,28.0
+Winter,Dresses,H&M India,1583920.5,408,48.48,12.45,0.27,774,27.0
+Winter,Dresses,Libas,1128937.0,396,48.35,13.61,0.29,779,29.0
+Winter,Dresses,Myntra M,919705.0,382,50.65,13.18,0.25,685,25.0
+Winter,Dresses,Snitch,1260118.0,361,50.56,12.78,0.25,689,25.0
+Winter,Dresses,Styli,1383911.0,373,48.91,12.8,0.25,750,25.0
+Winter,Dresses,The Souled Store,856958.0,393,51.32,13.65,0.28,722,28.0
+Winter,Dresses,Urbanic,1306005.0,376,48.54,13.98,0.27,732,27.0
+Winter,Dresses,Zudio,529785.0,352,50.36,13.76,0.26,668,26.0
+Winter,Ethnic,Bewakoof,1078033.5,436,49.46,13.68,0.1,821,10.0
+Winter,Ethnic,FabAlley,1808565.0,470,49.0,13.83,0.13,920,13.0
+Winter,Ethnic,H&M India,1979267.5,455,51.09,12.6,0.13,841,13.0
+Winter,Ethnic,Libas,1473798.5,467,51.54,13.54,0.12,895,12.0
+Winter,Ethnic,Myntra M,1407920.0,486,49.95,14.15,0.13,919,13.0
+Winter,Ethnic,Snitch,1877723.5,473,50.49,13.27,0.12,917,12.0
+Winter,Ethnic,Styli,1781247.0,444,50.33,13.03,0.12,846,12.0
+Winter,Ethnic,The Souled Store,1295500.5,472,50.25,13.18,0.12,925,12.0
+Winter,Ethnic,Urbanic,2113678.5,483,48.43,13.43,0.11,944,11.0
+Winter,Ethnic,Zudio,840329.0,453,49.37,13.83,0.13,932,13.0
+Winter,Footwear,Bewakoof,1430652.5,472,50.51,13.52,0.13,923,13.0
+Winter,Footwear,FabAlley,2106590.5,451,50.43,12.51,0.12,890,12.0
+Winter,Footwear,H&M India,2347648.0,457,51.75,12.83,0.13,851,13.0
+Winter,Footwear,Libas,1747604.5,449,49.54,12.43,0.13,842,13.0
+Winter,Footwear,Myntra M,1613086.0,452,49.87,13.77,0.09,879,9.0
+Winter,Footwear,Snitch,2444750.0,518,47.28,13.89,0.11,981,11.0
+Winter,Footwear,Styli,2233005.5,476,53.1,12.49,0.11,892,11.0
+Winter,Footwear,The Souled Store,1448201.0,473,49.89,13.73,0.13,878,13.0
+Winter,Footwear,Urbanic,2258825.5,460,51.74,13.64,0.12,872,12.0
+Winter,Footwear,Zudio,866945.5,417,51.18,14.0,0.14,794,14.0
+Winter,Topwear,Bewakoof,837959.5,644,49.71,13.2,0.25,1255,25.0
+Winter,Topwear,FabAlley,1243356.0,625,49.45,13.46,0.26,1241,26.0
+Winter,Topwear,H&M India,1430037.5,599,45.87,14.48,0.28,1188,28.0
+Winter,Topwear,Libas,1026059.0,606,48.72,13.23,0.24,1143,24.0
+Winter,Topwear,Myntra M,976319.0,602,50.3,13.1,0.25,1148,25.0
+Winter,Topwear,Snitch,1310186.0,621,48.07,13.69,0.29,1150,29.0
+Winter,Topwear,Styli,1284367.5,589,48.99,13.12,0.31,1150,31.0
+Winter,Topwear,The Souled Store,932226.0,640,47.55,13.52,0.29,1226,29.0
+Winter,Topwear,Urbanic,1518754.5,663,47.53,13.62,0.26,1314,26.0
+Winter,Topwear,Zudio,573456.0,619,48.6,13.75,0.26,1190,26.0

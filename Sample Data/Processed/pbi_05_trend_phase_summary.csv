@@ -1,0 +1,94 @@
+trend_name,trend_phase,decay_speed,avg_trend_score,max_trend_score,avg_search_vol,avg_social_mention,weeks_in_phase,peak_week,max_score
+Athleisure 2.0,Declining,medium,0.296,0.6757,34620.9231,4829.6538,26,65,0.95
+Athleisure 2.0,Emerging,medium,0.0244,0.0678,2838.6538,399.5,26,65,0.95
+Athleisure 2.0,Peaking,medium,0.8437,0.95,101699.5,12522.1154,26,65,0.95
+Athleisure 2.0,Rising,medium,0.2692,0.6228,29967.5,4325.2308,26,65,0.95
+Barbiecore,Dead,medium,0.0246,0.055,2168.3333,412.3333,3,56,0.94
+Barbiecore,Declining,medium,0.2608,0.7231,28523.6667,3838.0606,33,56,0.94
+Barbiecore,Emerging,medium,0.0341,0.1092,4048.5652,597.3043,23,56,0.94
+Barbiecore,Peaking,medium,0.8599,0.94,98471.1304,12447.8261,23,56,0.94
+Barbiecore,Rising,medium,0.3553,0.7013,40956.9091,3843.5909,22,56,0.94
+Clean Girl Aesthetic,Declining,slow,0.2961,0.6948,36908.5833,4666.875,24,66,0.99
+Clean Girl Aesthetic,Emerging,slow,0.0243,0.0749,2818.1852,343.7778,27,66,0.99
+Clean Girl Aesthetic,Peaking,slow,0.8702,0.99,100346.037,15233.7778,27,66,0.99
+Clean Girl Aesthetic,Rising,slow,0.2726,0.7088,32370.8462,3839.6923,26,66,0.99
+Coastal Grandmother,Declining,medium,0.1922,0.5077,21603.7333,3164.1333,30,61,0.71
+Coastal Grandmother,Emerging,medium,0.0197,0.069,2307.2,222.16,25,61,0.71
+Coastal Grandmother,Peaking,medium,0.637,0.71,70084.6,10326.24,25,61,0.71
+Coastal Grandmother,Rising,medium,0.2321,0.5187,26717.6667,3473.4583,24,61,0.71
+Coquette,Dead,medium,0.0223,0.0664,2484.087,340.7826,23,45,0.72
+Coquette,Declining,medium,0.2942,0.6183,33632.0,5043.1481,27,45,0.72
+Coquette,Emerging,medium,0.0607,0.1468,6421.6111,854.9444,18,45,0.72
+Coquette,Peaking,medium,0.6802,0.72,79042.2778,9980.4444,18,45,0.72
+Coquette,Rising,medium,0.3612,0.5975,40920.5556,5389.3889,18,45,0.72
+Cottagecore,Declining,fast,0.3534,0.5569,39395.7857,5842.2857,14,75,0.87
+Cottagecore,Emerging,fast,0.0147,0.0385,1616.8,205.9333,30,75,0.87
+Cottagecore,Peaking,fast,0.7452,0.87,89581.6333,10279.7667,30,75,0.87
+Cottagecore,Rising,fast,0.1826,0.5261,20553.5667,3020.6333,30,75,0.87
+Cottagecore Ethnic,Declining,fast,0.2506,0.5206,27598.65,3904.7,20,70,0.74
+Cottagecore Ethnic,Emerging,fast,0.0131,0.0302,1538.0357,204.3214,28,70,0.74
+Cottagecore Ethnic,Peaking,fast,0.6495,0.74,74751.9643,9746.5,28,70,0.74
+Cottagecore Ethnic,Rising,fast,0.1871,0.5025,22399.3929,2498.3214,28,70,0.74
+Dark Academia,Dead,fast,0.0179,0.0622,2093.0435,274.3043,23,45,0.69
+Dark Academia,Declining,fast,0.2783,0.5815,31652.8148,4701.5926,27,45,0.69
+Dark Academia,Emerging,fast,0.0594,0.141,6577.6111,868.1667,18,45,0.69
+Dark Academia,Peaking,fast,0.6517,0.69,75718.5556,10982.8333,18,45,0.69
+Dark Academia,Rising,fast,0.351,0.5875,42138.1111,5015.6667,18,45,0.69
+Dopamine Dressing,Dead,medium,0.0088,0.0143,946.0,120.2,5,55,0.74
+Dopamine Dressing,Declining,medium,0.2178,0.587,25525.2424,3293.3939,33,55,0.74
+Dopamine Dressing,Emerging,medium,0.0225,0.0552,2496.4545,394.7727,22,55,0.74
+Dopamine Dressing,Peaking,medium,0.6858,0.74,76240.8182,11516.0455,22,55,0.74
+Dopamine Dressing,Rising,medium,0.2888,0.5586,33809.3182,4932.5909,22,55,0.74
+Ethnic Modernism,Dead,fast,0.0587,0.3,6648.82,882.28,50,30,0.99
+Ethnic Modernism,Declining,fast,0.63,0.8947,73741.7778,9991.1667,18,30,0.99
+Ethnic Modernism,Emerging,fast,0.2948,0.4876,35153.0,3993.3333,12,30,0.99
+Ethnic Modernism,Peaking,fast,0.9598,0.99,116340.8333,13740.9167,12,30,0.99
+Ethnic Modernism,Rising,fast,0.706,0.8848,76872.1667,10367.8333,12,30,0.99
+Gender Fluid Fashion,Dead,fast,0.0495,0.306,5611.8281,693.0312,64,22,0.57
+Gender Fluid Fashion,Declining,fast,0.4349,0.5424,54120.2308,5827.2308,13,22,0.57
+Gender Fluid Fashion,Emerging,fast,0.2945,0.4048,34929.7778,4607.0,9,22,0.57
+Gender Fluid Fashion,Peaking,fast,0.5588,0.57,64763.8889,7072.1111,9,22,0.57
+Gender Fluid Fashion,Rising,fast,0.4824,0.5515,55161.4444,7608.2222,9,22,0.57
+Gorpcore,Dead,medium,0.0303,0.1304,3400.6286,467.8857,35,38,0.78
+Gorpcore,Declining,medium,0.3835,0.7053,45429.6087,6118.3913,23,38,0.78
+Gorpcore,Emerging,medium,0.1296,0.2749,15138.4375,2051.375,16,38,0.78
+Gorpcore,Peaking,medium,0.7433,0.78,90846.5333,10593.6,15,38,0.78
+Gorpcore,Rising,medium,0.4836,0.6866,56091.0667,8173.0667,15,38,0.78
+Maximalism,Declining,slow,0.3409,0.6287,38356.3,5796.9,20,70,0.94
+Maximalism,Emerging,slow,0.0178,0.0463,1975.25,292.5,28,70,0.94
+Maximalism,Peaking,slow,0.8221,0.94,95315.4286,12322.9286,28,70,0.94
+Maximalism,Rising,slow,0.2258,0.556,23481.8929,2795.1786,28,70,0.94
+Mob Wife Aesthetic,Dead,fast,0.0213,0.0328,2325.5,320.6,10,52,0.83
+Mob Wife Aesthetic,Declining,fast,0.255,0.6252,31211.6774,3794.871,31,52,0.83
+Mob Wife Aesthetic,Emerging,fast,0.0397,0.1389,4394.3333,550.4762,21,52,0.83
+Mob Wife Aesthetic,Peaking,fast,0.7544,0.83,87361.0476,11327.6667,21,52,0.83
+Mob Wife Aesthetic,Rising,fast,0.3574,0.6634,37435.4762,5936.8095,21,52,0.83
+Old Money,Dead,fast,0.0291,0.058,3076.3333,342.25,12,51,0.94
+Old Money,Declining,fast,0.3056,0.7459,37325.0,4373.0667,30,51,0.94
+Old Money,Emerging,fast,0.0521,0.1219,6486.9048,793.5714,21,51,0.94
+Old Money,Peaking,fast,0.8802,0.94,97777.9524,14694.1429,21,51,0.94
+Old Money,Rising,fast,0.4108,0.7579,49873.6,6872.5,20,51,0.94
+Quiet Luxury,Dead,medium,0.048,0.2935,5490.7544,806.6316,57,26,0.68
+Quiet Luxury,Declining,medium,0.4758,0.6413,55962.2,7072.3333,15,26,0.68
+Quiet Luxury,Emerging,medium,0.2738,0.3731,29472.9091,4371.9091,11,26,0.68
+Quiet Luxury,Peaking,medium,0.6679,0.68,75420.1818,9304.3636,11,26,0.68
+Quiet Luxury,Rising,medium,0.5313,0.6522,58671.8,8803.4,10,26,0.68
+Streetwear Fusion,Dead,slow,0.0345,0.1107,3779.3214,463.25,28,42,0.98
+Streetwear Fusion,Declining,slow,0.413,0.7935,48185.64,5660.88,25,42,0.98
+Streetwear Fusion,Emerging,slow,0.1078,0.2425,12530.1176,1548.7647,17,42,0.98
+Streetwear Fusion,Peaking,slow,0.9173,0.98,101068.1176,14368.6471,17,42,0.98
+Streetwear Fusion,Rising,slow,0.5547,0.8186,59406.0588,9019.0,17,42,0.98
+Sustainable Chic,Dead,slow,0.1019,0.6077,12095.1067,1575.0267,75,16,0.87
+Sustainable Chic,Declining,slow,0.7583,0.8615,87133.3333,10705.5556,9,16,0.87
+Sustainable Chic,Emerging,slow,0.6179,0.7234,65345.1429,11487.4286,7,16,0.87
+Sustainable Chic,Peaking,slow,0.8504,0.87,93377.8571,13994.8571,7,16,0.87
+Sustainable Chic,Rising,slow,0.7986,0.8684,98463.6667,11849.0,6,16,0.87
+Vintage Revival,Declining,medium,0.336,0.5651,39883.5625,4883.4375,16,73,0.89
+Vintage Revival,Emerging,medium,0.0155,0.04,1766.5,241.8,30,73,0.89
+Vintage Revival,Peaking,medium,0.771,0.89,86383.7931,11570.8966,29,73,0.89
+Vintage Revival,Rising,medium,0.2093,0.5738,24033.1379,3300.7931,29,73,0.89
+Y2K Revival,Dead,fast,0.0378,0.1683,4372.973,548.0811,37,37,0.86
+Y2K Revival,Declining,fast,0.4426,0.7433,53774.6364,5754.1364,22,37,0.86
+Y2K Revival,Emerging,fast,0.1405,0.2891,16530.1333,2302.4,15,37,0.86
+Y2K Revival,Peaking,fast,0.8293,0.86,97410.8667,12244.4667,15,37,0.86
+Y2K Revival,Rising,fast,0.5458,0.7731,58000.0,8476.8,15,37,0.86

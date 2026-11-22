@@ -1,0 +1,361 @@
+platform,trend_name,city_tier,total_mentions,avg_mentions,total_reach,avg_engagement,peak_week_signals
+Instagram,Athleisure 2.0,1,156495,1504.7596,2596973,2.3353,5
+Instagram,Athleisure 2.0,2,104718,1006.9038,1666605,2.4404,5
+Instagram,Athleisure 2.0,3,53715,516.4904,904116,2.4726,5
+Instagram,Barbiecore,1,178540,1716.7308,2837971,2.4917,5
+Instagram,Barbiecore,2,115035,1106.1058,1984568,2.3032,5
+Instagram,Barbiecore,3,50231,482.9904,797272,2.6446,5
+Instagram,Clean Girl Aesthetic,1,169931,1633.9519,2820187,2.5231,5
+Instagram,Clean Girl Aesthetic,2,118836,1142.6538,1956102,2.4278,5
+Instagram,Clean Girl Aesthetic,3,53490,514.3269,907366,2.2709,5
+Instagram,Coastal Grandmother,1,111232,1069.5385,1955271,2.2882,5
+Instagram,Coastal Grandmother,2,77821,748.2788,1318562,2.3832,5
+Instagram,Coastal Grandmother,3,43175,415.1442,758197,2.2112,5
+Instagram,Coquette,1,121341,1166.7404,1883129,2.653,5
+Instagram,Coquette,2,98259,944.7981,1625976,2.4485,5
+Instagram,Coquette,3,46624,448.3077,756405,2.4838,5
+Instagram,Cottagecore,1,136428,1311.8077,2146526,2.5029,5
+Instagram,Cottagecore,2,95999,923.0673,1624193,2.304,5
+Instagram,Cottagecore,3,56442,542.7115,886524,2.338,5
+Instagram,Cottagecore Ethnic,1,121535,1168.6058,1967280,2.5891,5
+Instagram,Cottagecore Ethnic,2,87356,839.9615,1431156,2.4054,5
+Instagram,Cottagecore Ethnic,3,42381,407.5096,740214,2.2676,5
+Instagram,Dark Academia,1,114183,1097.9135,1867034,2.5233,5
+Instagram,Dark Academia,2,77799,748.0673,1289705,2.4385,5
+Instagram,Dark Academia,3,43059,414.0288,711068,2.4783,5
+Instagram,Dopamine Dressing,1,129517,1245.3558,2225096,2.4638,5
+Instagram,Dopamine Dressing,2,84347,811.0288,1483060,2.3644,5
+Instagram,Dopamine Dressing,3,45805,440.4327,718155,2.2309,5
+Instagram,Ethnic Modernism,1,176090,1693.1731,3082110,2.3031,5
+Instagram,Ethnic Modernism,2,108625,1044.4712,1792766,2.559,5
+Instagram,Ethnic Modernism,3,58645,563.8942,965048,2.4581,5
+Instagram,Gender Fluid Fashion,1,84107,808.7212,1377563,2.457,5
+Instagram,Gender Fluid Fashion,2,57730,555.0962,886449,2.325,5
+Instagram,Gender Fluid Fashion,3,34192,328.7692,597839,1.981,5
+Instagram,Gorpcore,1,138840,1335.0,2242231,2.3686,5
+Instagram,Gorpcore,2,88480,850.7692,1377526,2.4178,5
+Instagram,Gorpcore,3,48678,468.0577,824859,2.2634,5
+Instagram,Maximalism,1,149311,1435.6827,2660773,2.3025,5
+Instagram,Maximalism,2,101409,975.0865,1648503,2.5051,5
+Instagram,Maximalism,3,54509,524.125,932850,2.4486,5
+Instagram,Mob Wife Aesthetic,1,131354,1263.0192,2022497,2.396,5
+Instagram,Mob Wife Aesthetic,2,99542,957.1346,1636774,2.483,5
+Instagram,Mob Wife Aesthetic,3,56341,541.7404,1008474,2.2974,5
+Instagram,Old Money,1,154810,1488.5577,2450374,2.5188,5
+Instagram,Old Money,2,109094,1048.9808,1944906,2.3789,5
+Instagram,Old Money,3,50292,483.5769,826485,2.255,5
+Instagram,Quiet Luxury,1,132346,1272.5577,2177283,2.3447,5
+Instagram,Quiet Luxury,2,73311,704.9135,1175525,2.4439,5
+Instagram,Quiet Luxury,3,40248,387.0,663803,2.2469,5
+Instagram,Streetwear Fusion,1,162147,1559.1058,2529854,2.5768,5
+Instagram,Streetwear Fusion,2,119634,1150.3269,1884686,2.3669,5
+Instagram,Streetwear Fusion,3,58969,567.0096,967188,2.3402,5
+Instagram,Sustainable Chic,1,131363,1263.1058,2146977,2.4003,5
+Instagram,Sustainable Chic,2,86951,836.0673,1428083,2.2857,5
+Instagram,Sustainable Chic,3,51232,492.6154,971086,2.1954,5
+Instagram,Vintage Revival,1,162036,1558.0385,2823713,2.5449,5
+Instagram,Vintage Revival,2,101658,977.4808,1666380,2.5643,5
+Instagram,Vintage Revival,3,52823,507.9135,917770,2.4839,5
+Instagram,Y2K Revival,1,138899,1335.5673,2256809,2.5884,5
+Instagram,Y2K Revival,2,94123,905.0288,1548174,2.3984,5
+Instagram,Y2K Revival,3,56308,541.4231,929399,2.4442,5
+Meesho Social,Athleisure 2.0,1,86075,827.6442,1464584,2.3247,5
+Meesho Social,Athleisure 2.0,2,54188,521.0385,909297,2.3862,5
+Meesho Social,Athleisure 2.0,3,31367,301.6058,519745,2.4774,5
+Meesho Social,Barbiecore,1,85034,817.6346,1434468,2.4548,5
+Meesho Social,Barbiecore,2,56647,544.6827,950945,2.2792,5
+Meesho Social,Barbiecore,3,29453,283.2019,515575,2.3915,5
+Meesho Social,Clean Girl Aesthetic,1,87799,844.2212,1447582,2.634,5
+Meesho Social,Clean Girl Aesthetic,2,59838,575.3654,951560,2.3694,5
+Meesho Social,Clean Girl Aesthetic,3,31150,299.5192,504837,2.2632,5
+Meesho Social,Coastal Grandmother,1,60584,582.5385,983008,2.3078,5
+Meesho Social,Coastal Grandmother,2,38232,367.6154,645048,2.4024,5
+Meesho Social,Coastal Grandmother,3,22695,218.2212,413716,1.942,5
+Meesho Social,Coquette,1,67036,644.5769,1158131,2.4025,5
+Meesho Social,Coquette,2,41228,396.4231,692963,2.4337,5
+Meesho Social,Coquette,3,20188,194.1154,330241,2.0911,5
+Meesho Social,Cottagecore,1,73470,706.4423,1133193,2.4322,5
+Meesho Social,Cottagecore,2,51114,491.4808,872109,2.1808,5
+Meesho Social,Cottagecore,3,25042,240.7885,412618,2.0556,5
+Meesho Social,Cottagecore Ethnic,1,64927,624.2981,1086404,2.2394,5
+Meesho Social,Cottagecore Ethnic,2,41802,401.9423,615382,2.4223,5
+Meesho Social,Cottagecore Ethnic,3,21040,202.3077,359582,2.1768,5
+Meesho Social,Dark Academia,1,61352,589.9231,1028560,2.4114,5
+Meesho Social,Dark Academia,2,39673,381.4712,641625,2.3575,5
+Meesho Social,Dark Academia,3,19852,190.8846,312251,2.1703,5
+Meesho Social,Dopamine Dressing,1,65150,626.4423,1097544,2.3393,5
+Meesho Social,Dopamine Dressing,2,39844,383.1154,637343,2.3313,5
+Meesho Social,Dopamine Dressing,3,24286,233.5192,382230,2.1821,5
+Meesho Social,Ethnic Modernism,1,80884,777.7308,1365069,2.4435,5
+Meesho Social,Ethnic Modernism,2,55169,530.4712,890944,2.3223,5
+Meesho Social,Ethnic Modernism,3,30426,292.5577,511435,2.1426,5
+Meesho Social,Gender Fluid Fashion,1,48639,467.6827,793900,2.2593,5
+Meesho Social,Gender Fluid Fashion,2,31973,307.4327,507987,2.0972,5
+Meesho Social,Gender Fluid Fashion,3,15437,148.4327,276738,1.6933,5
+Meesho Social,Gorpcore,1,69590,669.1346,1191266,2.3762,5
+Meesho Social,Gorpcore,2,38978,374.7885,689687,2.2687,5
+Meesho Social,Gorpcore,3,22693,218.2019,382792,2.2564,5
+Meesho Social,Maximalism,1,84345,811.0096,1399782,2.5635,5
+Meesho Social,Maximalism,2,55076,529.5769,906768,2.4642,5
+Meesho Social,Maximalism,3,29630,284.9038,495962,2.2037,5
+Meesho Social,Mob Wife Aesthetic,1,67987,653.7212,1141186,2.4491,5
+Meesho Social,Mob Wife Aesthetic,2,48783,469.0673,793868,2.2342,5
+Meesho Social,Mob Wife Aesthetic,3,26674,256.4808,453961,2.2045,5
+Meesho Social,Old Money,1,73549,707.2019,1185105,2.3987,5
+Meesho Social,Old Money,2,58952,566.8462,1023758,2.3584,5
+Meesho Social,Old Money,3,30451,292.7981,519317,2.3264,5
+Meesho Social,Quiet Luxury,1,62034,596.4808,1023021,2.191,5
+Meesho Social,Quiet Luxury,2,37137,357.0865,596181,2.2233,5
+Meesho Social,Quiet Luxury,3,20591,197.9904,324443,2.128,5
+Meesho Social,Streetwear Fusion,1,80535,774.375,1470035,2.352,5
+Meesho Social,Streetwear Fusion,2,49917,479.9712,856396,2.2102,5
+Meesho Social,Streetwear Fusion,3,27464,264.0769,440603,2.4747,5
+Meesho Social,Sustainable Chic,1,63552,611.0769,1013136,2.1904,5
+Meesho Social,Sustainable Chic,2,47870,460.2885,831599,2.1551,5
+Meesho Social,Sustainable Chic,3,22129,212.7788,309689,2.1038,5
+Meesho Social,Vintage Revival,1,82533,793.5865,1301605,2.3824,5
+Meesho Social,Vintage Revival,2,48491,466.2596,750497,2.3191,5
+Meesho Social,Vintage Revival,3,25276,243.0385,429892,2.0951,5
+Meesho Social,Y2K Revival,1,81814,786.6731,1348503,2.3018,5
+Meesho Social,Y2K Revival,2,45075,433.4135,751905,2.2056,5
+Meesho Social,Y2K Revival,3,26482,254.6346,425640,2.3442,5
+Moj,Athleisure 2.0,1,61563,591.9519,975196,2.5499,5
+Moj,Athleisure 2.0,2,46538,447.4808,778782,2.2046,5
+Moj,Athleisure 2.0,3,23310,224.1346,391475,2.0833,5
+Moj,Barbiecore,1,66733,641.6635,1045004,2.4861,5
+Moj,Barbiecore,2,42737,410.9327,712946,2.4206,5
+Moj,Barbiecore,3,21787,209.4904,372930,2.3556,5
+Moj,Clean Girl Aesthetic,1,67539,649.4135,1031977,2.5872,5
+Moj,Clean Girl Aesthetic,2,47387,455.6442,777232,2.3097,5
+Moj,Clean Girl Aesthetic,3,25364,243.8846,453062,2.1207,5
+Moj,Coastal Grandmother,1,49158,472.6731,842904,2.1604,5
+Moj,Coastal Grandmother,2,33574,322.8269,543210,2.3415,5
+Moj,Coastal Grandmother,3,16673,160.3173,254629,2.1207,5
+Moj,Coquette,1,46836,450.3462,744654,2.3635,5
+Moj,Coquette,2,34214,328.9808,575096,2.1893,5
+Moj,Coquette,3,15217,146.3173,250331,2.2133,5
+Moj,Cottagecore,1,58219,559.7981,1013542,2.4719,5
+Moj,Cottagecore,2,37845,363.8942,613469,2.2953,5
+Moj,Cottagecore,3,21874,210.3269,353074,2.1886,5
+Moj,Cottagecore Ethnic,1,51022,490.5962,837027,2.3064,5
+Moj,Cottagecore Ethnic,2,33060,317.8846,575537,2.1052,5
+Moj,Cottagecore Ethnic,3,18910,181.8269,322279,2.0192,5
+Moj,Dark Academia,1,50370,484.3269,833195,2.3687,5
+Moj,Dark Academia,2,31951,307.2212,565367,2.2554,5
+Moj,Dark Academia,3,18233,175.3173,292766,2.2406,5
+Moj,Dopamine Dressing,1,50113,481.8558,840193,2.302,5
+Moj,Dopamine Dressing,2,32703,314.4519,509418,2.2353,5
+Moj,Dopamine Dressing,3,16623,159.8365,277384,2.1979,5
+Moj,Ethnic Modernism,1,65475,629.5673,1122921,2.4153,5
+Moj,Ethnic Modernism,2,41141,395.5865,699060,2.2494,5
+Moj,Ethnic Modernism,3,24927,239.6827,419743,2.1664,5
+Moj,Gender Fluid Fashion,1,36203,348.1058,631912,2.2891,5
+Moj,Gender Fluid Fashion,2,26039,250.375,428347,2.3432,5
+Moj,Gender Fluid Fashion,3,13791,132.6058,227519,1.7156,5
+Moj,Gorpcore,1,57717,554.9712,873411,2.5847,5
+Moj,Gorpcore,2,37071,356.4519,577079,2.5953,5
+Moj,Gorpcore,3,19297,185.5481,325261,2.1417,5
+Moj,Maximalism,1,71001,682.7019,1132750,2.4575,5
+Moj,Maximalism,2,44411,427.0288,661372,2.5214,5
+Moj,Maximalism,3,22305,214.4712,392160,1.904,5
+Moj,Mob Wife Aesthetic,1,60813,584.7404,1058263,2.2877,5
+Moj,Mob Wife Aesthetic,2,39128,376.2308,598882,2.3507,5
+Moj,Mob Wife Aesthetic,3,21398,205.75,330076,2.182,5
+Moj,Old Money,1,73489,706.625,1275320,2.4561,5
+Moj,Old Money,2,43149,414.8942,761509,2.1892,5
+Moj,Old Money,3,23397,224.9712,418307,2.0622,5
+Moj,Quiet Luxury,1,47117,453.0481,788721,2.3579,5
+Moj,Quiet Luxury,2,33019,317.4904,526573,2.1801,5
+Moj,Quiet Luxury,3,17113,164.5481,282757,1.9211,5
+Moj,Streetwear Fusion,1,70438,677.2885,1114263,2.5208,5
+Moj,Streetwear Fusion,2,43915,422.2596,712200,2.4082,5
+Moj,Streetwear Fusion,3,23976,230.5385,384864,2.5209,5
+Moj,Sustainable Chic,1,51229,492.5865,925081,2.2065,5
+Moj,Sustainable Chic,2,33237,319.5865,573392,2.2805,5
+Moj,Sustainable Chic,3,17537,168.625,286218,1.9245,5
+Moj,Vintage Revival,1,67198,646.1346,1083045,2.4456,5
+Moj,Vintage Revival,2,41054,394.75,686749,2.2305,5
+Moj,Vintage Revival,3,22228,213.7308,355962,2.0602,5
+Moj,Y2K Revival,1,54791,526.8365,910557,2.5015,5
+Moj,Y2K Revival,2,36230,348.3654,587210,2.3425,5
+Moj,Y2K Revival,3,19026,182.9423,283122,2.3995,5
+Pinterest,Athleisure 2.0,1,101147,972.5673,1696959,2.4734,5
+Pinterest,Athleisure 2.0,2,67672,650.6923,1050533,2.5804,5
+Pinterest,Athleisure 2.0,3,34884,335.4231,585130,2.3314,5
+Pinterest,Barbiecore,1,100729,968.5481,1662750,2.5894,5
+Pinterest,Barbiecore,2,66113,635.7019,1097105,2.3355,5
+Pinterest,Barbiecore,3,35940,345.5769,599514,2.4481,5
+Pinterest,Clean Girl Aesthetic,1,102363,984.2596,1633638,2.3878,5
+Pinterest,Clean Girl Aesthetic,2,70547,678.3365,1247419,2.3623,5
+Pinterest,Clean Girl Aesthetic,3,33656,323.6154,544070,2.1945,5
+Pinterest,Coastal Grandmother,1,66550,639.9038,1156202,2.3086,5
+Pinterest,Coastal Grandmother,2,48279,464.2212,811871,2.408,5
+Pinterest,Coastal Grandmother,3,23720,228.0769,422227,2.1481,5
+Pinterest,Coquette,1,79448,763.9231,1262765,2.5221,5
+Pinterest,Coquette,2,48109,462.5865,849091,2.2086,5
+Pinterest,Coquette,3,30523,293.4904,542612,2.1506,5
+Pinterest,Cottagecore,1,84675,814.1827,1394005,2.6095,5
+Pinterest,Cottagecore,2,58467,562.1827,989230,2.2903,5
+Pinterest,Cottagecore,3,36053,346.6635,583911,2.3291,5
+Pinterest,Cottagecore Ethnic,1,85924,826.1923,1485327,2.1525,5
+Pinterest,Cottagecore Ethnic,2,48498,466.3269,796798,2.3681,5
+Pinterest,Cottagecore Ethnic,3,23060,221.7308,421837,2.0091,5
+Pinterest,Dark Academia,1,79240,761.9231,1245801,2.4244,5
+Pinterest,Dark Academia,2,47056,452.4615,750177,2.2518,5
+Pinterest,Dark Academia,3,25883,248.875,426846,2.0708,5
+Pinterest,Dopamine Dressing,1,73838,709.9808,1149778,2.4951,5
+Pinterest,Dopamine Dressing,2,47142,453.2885,720104,2.3798,5
+Pinterest,Dopamine Dressing,3,27192,261.4615,426547,2.2108,5
+Pinterest,Ethnic Modernism,1,101248,973.5385,1702389,2.3037,5
+Pinterest,Ethnic Modernism,2,70452,677.4231,1150405,2.3444,5
+Pinterest,Ethnic Modernism,3,37117,356.8942,610288,2.2152,5
+Pinterest,Gender Fluid Fashion,1,58176,559.3846,972438,2.1711,5
+Pinterest,Gender Fluid Fashion,2,34409,330.8558,559503,2.2296,5
+Pinterest,Gender Fluid Fashion,3,19337,185.9327,298392,1.8931,5
+Pinterest,Gorpcore,1,79924,768.5,1349388,2.3285,5
+Pinterest,Gorpcore,2,56246,540.8269,927297,2.4483,5
+Pinterest,Gorpcore,3,25664,246.7692,455867,2.1467,5
+Pinterest,Maximalism,1,94475,908.4135,1651250,2.4675,5
+Pinterest,Maximalism,2,63941,614.8173,1073899,2.5524,5
+Pinterest,Maximalism,3,35354,339.9423,562825,2.4095,5
+Pinterest,Mob Wife Aesthetic,1,88310,849.1346,1387000,2.581,5
+Pinterest,Mob Wife Aesthetic,2,56356,541.8846,883829,2.4066,5
+Pinterest,Mob Wife Aesthetic,3,31597,303.8173,515391,2.3443,5
+Pinterest,Old Money,1,94780,911.3462,1706835,2.3293,5
+Pinterest,Old Money,2,63249,608.1635,1073544,2.4571,5
+Pinterest,Old Money,3,38508,370.2692,701503,2.2226,5
+Pinterest,Quiet Luxury,1,76009,730.8558,1303654,2.2941,5
+Pinterest,Quiet Luxury,2,43094,414.3654,735111,2.2099,5
+Pinterest,Quiet Luxury,3,25813,248.2019,407327,2.0927,5
+Pinterest,Streetwear Fusion,1,106981,1028.6635,1994345,2.245,5
+Pinterest,Streetwear Fusion,2,63435,609.9519,1075833,2.4072,5
+Pinterest,Streetwear Fusion,3,32998,317.2885,490852,2.4596,5
+Pinterest,Sustainable Chic,1,79733,766.6635,1296895,2.426,5
+Pinterest,Sustainable Chic,2,54613,525.125,867093,2.4441,5
+Pinterest,Sustainable Chic,3,30343,291.7596,513543,2.1053,5
+Pinterest,Vintage Revival,1,95155,914.9519,1575655,2.3284,5
+Pinterest,Vintage Revival,2,58413,561.6635,862047,2.4121,5
+Pinterest,Vintage Revival,3,29537,284.0096,433509,2.4036,5
+Pinterest,Y2K Revival,1,95513,918.3942,1749945,2.2111,5
+Pinterest,Y2K Revival,2,61949,595.6635,983323,2.4253,5
+Pinterest,Y2K Revival,3,30679,294.9904,486382,2.1792,5
+ShareChat,Athleisure 2.0,1,58926,566.5962,877437,2.6347,5
+ShareChat,Athleisure 2.0,2,45618,438.6346,730423,2.4957,5
+ShareChat,Athleisure 2.0,3,18618,179.0192,321933,1.9805,5
+ShareChat,Barbiecore,1,57786,555.6346,904341,2.3147,5
+ShareChat,Barbiecore,2,35347,339.875,546579,2.4182,5
+ShareChat,Barbiecore,3,20091,193.1827,344615,2.1978,5
+ShareChat,Clean Girl Aesthetic,1,55587,534.4904,908136,2.4897,5
+ShareChat,Clean Girl Aesthetic,2,40973,393.9712,602386,2.5201,5
+ShareChat,Clean Girl Aesthetic,3,18733,180.125,296279,2.2522,5
+ShareChat,Coastal Grandmother,1,41140,395.5769,646820,2.2476,5
+ShareChat,Coastal Grandmother,2,29244,281.1923,511100,2.0736,5
+ShareChat,Coastal Grandmother,3,14648,140.8462,255209,1.9543,5
+ShareChat,Coquette,1,46715,449.1827,787685,2.3238,5
+ShareChat,Coquette,2,27601,265.3942,439451,2.1576,5
+ShareChat,Coquette,3,17017,163.625,273680,2.0566,5
+ShareChat,Cottagecore,1,52903,508.6827,814639,2.585,5
+ShareChat,Cottagecore,2,32815,315.5288,553925,2.1162,5
+ShareChat,Cottagecore,3,18762,180.4038,330793,1.9397,5
+ShareChat,Cottagecore Ethnic,1,46596,448.0385,744010,2.1874,5
+ShareChat,Cottagecore Ethnic,2,27602,265.4038,472351,2.129,5
+ShareChat,Cottagecore Ethnic,3,14513,139.5481,256367,2.1091,5
+ShareChat,Dark Academia,1,45023,432.9135,719550,2.4877,5
+ShareChat,Dark Academia,2,29854,287.0577,492838,2.4257,5
+ShareChat,Dark Academia,3,13125,126.2019,209133,2.1334,5
+ShareChat,Dopamine Dressing,1,47857,460.1635,815458,2.3272,5
+ShareChat,Dopamine Dressing,2,27692,266.2692,439033,2.2828,5
+ShareChat,Dopamine Dressing,3,15493,148.9712,264049,2.1243,5
+ShareChat,Ethnic Modernism,1,59613,573.2019,1061146,2.1807,5
+ShareChat,Ethnic Modernism,2,42536,409.0,670053,2.2683,5
+ShareChat,Ethnic Modernism,3,18247,175.4519,303500,2.0826,5
+ShareChat,Gender Fluid Fashion,1,32603,313.4904,535215,2.2993,5
+ShareChat,Gender Fluid Fashion,2,21216,204.0,359230,1.888,5
+ShareChat,Gender Fluid Fashion,3,11948,114.8846,202412,1.7868,5
+ShareChat,Gorpcore,1,48961,470.7788,802016,2.4598,5
+ShareChat,Gorpcore,2,30574,293.9808,522932,2.1473,5
+ShareChat,Gorpcore,3,17094,164.3654,291010,2.3096,5
+ShareChat,Maximalism,1,56402,542.3269,959200,2.3011,5
+ShareChat,Maximalism,2,32946,316.7885,530334,2.1599,5
+ShareChat,Maximalism,3,21489,206.625,360353,2.1545,5
+ShareChat,Mob Wife Aesthetic,1,53951,518.7596,934028,2.0984,5
+ShareChat,Mob Wife Aesthetic,2,31924,306.9615,489947,2.436,5
+ShareChat,Mob Wife Aesthetic,3,16648,160.0769,274681,2.0356,5
+ShareChat,Old Money,1,56683,545.0288,897996,2.3821,5
+ShareChat,Old Money,2,38188,367.1923,641697,2.4345,5
+ShareChat,Old Money,3,20955,201.4904,381591,2.169,5
+ShareChat,Quiet Luxury,1,44512,428.0,739025,2.2797,5
+ShareChat,Quiet Luxury,2,26641,256.1635,428827,2.2482,5
+ShareChat,Quiet Luxury,3,15189,146.0481,250141,1.8782,5
+ShareChat,Streetwear Fusion,1,57177,549.7788,897179,2.5464,5
+ShareChat,Streetwear Fusion,2,39914,383.7885,646256,2.3424,5
+ShareChat,Streetwear Fusion,3,20428,196.4231,336762,2.1373,5
+ShareChat,Sustainable Chic,1,43705,420.2404,732527,2.2944,5
+ShareChat,Sustainable Chic,2,32974,317.0577,528611,2.0734,5
+ShareChat,Sustainable Chic,3,16390,157.5962,244223,1.8846,5
+ShareChat,Vintage Revival,1,51951,499.5288,924513,2.1784,5
+ShareChat,Vintage Revival,2,37800,363.4615,590444,2.2958,5
+ShareChat,Vintage Revival,3,19578,188.25,327019,2.0745,5
+ShareChat,Y2K Revival,1,54591,524.9135,922243,2.4382,5
+ShareChat,Y2K Revival,2,37434,359.9423,582260,2.3522,5
+ShareChat,Y2K Revival,3,18366,176.5962,312451,2.0335,5
+YouTube,Athleisure 2.0,1,116969,1124.7019,1891123,2.4782,5
+YouTube,Athleisure 2.0,2,70271,675.6827,1179632,2.4211,5
+YouTube,Athleisure 2.0,3,46155,443.7981,743878,2.3641,5
+YouTube,Barbiecore,1,120768,1161.2308,2051733,2.396,5
+YouTube,Barbiecore,2,71130,683.9423,1205932,2.4538,5
+YouTube,Barbiecore,3,39587,380.6442,649153,2.3017,5
+YouTube,Clean Girl Aesthetic,1,131041,1260.0096,2202499,2.4104,5
+YouTube,Clean Girl Aesthetic,2,75918,729.9808,1303233,2.3,5
+YouTube,Clean Girl Aesthetic,3,45779,440.1827,745615,2.2756,5
+YouTube,Coastal Grandmother,1,85381,820.9712,1354741,2.5213,5
+YouTube,Coastal Grandmother,2,61453,590.8942,989129,2.4614,5
+YouTube,Coastal Grandmother,3,30002,288.4808,508564,2.0915,5
+YouTube,Coquette,1,86446,831.2115,1301019,2.8044,5
+YouTube,Coquette,2,58215,559.7596,935089,2.4832,5
+YouTube,Coquette,3,29059,279.4135,473124,2.2698,5
+YouTube,Cottagecore,1,93684,900.8077,1654064,2.4277,5
+YouTube,Cottagecore,2,72793,699.9327,1248066,2.1983,5
+YouTube,Cottagecore,3,34597,332.6635,565058,2.2905,5
+YouTube,Cottagecore Ethnic,1,92979,894.0288,1450694,2.4781,5
+YouTube,Cottagecore Ethnic,2,57679,554.6058,952262,2.4047,5
+YouTube,Cottagecore Ethnic,3,27619,265.5673,471605,2.1725,5
+YouTube,Dark Academia,1,76767,738.1442,1219401,2.3124,5
+YouTube,Dark Academia,2,64362,618.8654,1012360,2.4239,5
+YouTube,Dark Academia,3,28095,270.1442,469259,2.1645,5
+YouTube,Dopamine Dressing,1,96266,925.6346,1621172,2.4278,5
+YouTube,Dopamine Dressing,2,60841,585.0096,1028205,2.4764,5
+YouTube,Dopamine Dressing,3,34917,335.7404,618295,2.2136,5
+YouTube,Ethnic Modernism,1,129954,1249.5577,2059377,2.4352,5
+YouTube,Ethnic Modernism,2,78679,756.5288,1263959,2.404,5
+YouTube,Ethnic Modernism,3,43705,420.2404,670237,2.3366,5
+YouTube,Gender Fluid Fashion,1,72847,700.4519,1171010,2.2642,5
+YouTube,Gender Fluid Fashion,2,45793,440.3173,806915,2.1415,5
+YouTube,Gender Fluid Fashion,3,21894,210.5192,340128,2.0228,5
+YouTube,Gorpcore,1,99180,953.6538,1584344,2.4105,5
+YouTube,Gorpcore,2,61794,594.1731,973352,2.1882,5
+YouTube,Gorpcore,3,32891,316.2596,520118,2.3864,5
+YouTube,Maximalism,1,114050,1096.6346,1997726,2.4467,5
+YouTube,Maximalism,2,73667,708.3365,1291250,2.3984,5
+YouTube,Maximalism,3,40147,386.0288,668130,2.3869,5
+YouTube,Mob Wife Aesthetic,1,94091,904.7212,1589376,2.401,5
+YouTube,Mob Wife Aesthetic,2,66655,640.9135,1060725,2.4907,5
+YouTube,Mob Wife Aesthetic,3,34758,334.2115,586876,2.2661,5
+YouTube,Old Money,1,119570,1149.7115,1933065,2.3351,5
+YouTube,Old Money,2,81469,783.3558,1301890,2.569,5
+YouTube,Old Money,3,41439,398.4519,713049,2.199,5
+YouTube,Quiet Luxury,1,83764,805.4231,1331886,2.5819,5
+YouTube,Quiet Luxury,2,56536,543.6154,964320,2.2957,5
+YouTube,Quiet Luxury,3,27381,263.2788,449332,2.2592,5
+YouTube,Streetwear Fusion,1,109841,1056.1635,1785313,2.5261,5
+YouTube,Streetwear Fusion,2,78259,752.4904,1159384,2.5814,5
+YouTube,Streetwear Fusion,3,42905,412.5481,684382,2.3353,5
+YouTube,Sustainable Chic,1,91944,884.0769,1672010,2.4068,5
+YouTube,Sustainable Chic,2,55882,537.3269,976191,2.2672,5
+YouTube,Sustainable Chic,3,32699,314.4135,550913,2.1024,5
+YouTube,Vintage Revival,1,103938,999.4038,1656235,2.5514,5
+YouTube,Vintage Revival,2,74810,719.3269,1291682,2.2569,5
+YouTube,Vintage Revival,3,36103,347.1442,602218,2.2277,5
+YouTube,Y2K Revival,1,114652,1102.4231,2020903,2.5394,5
+YouTube,Y2K Revival,2,72634,698.4038,1245886,2.4403,5
+YouTube,Y2K Revival,3,37361,359.2404,613666,2.3229,5

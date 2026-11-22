@@ -1,0 +1,1056 @@
+po_month,supplier,category,total_pos,total_value,avg_lead_time,delayed_count,avg_delay
+2023-01,Bangalore Weaves,Accessories,7,1773098.63,55.14,5,10.29
+2023-01,Bangalore Weaves,Bottomwear,5,1410607.72,58.4,3,4.0
+2023-01,Bangalore Weaves,Dresses,6,1709567.84,68.5,2,4.67
+2023-01,Bangalore Weaves,Ethnic,6,1825967.48,47.83,3,4.83
+2023-01,Bangalore Weaves,Footwear,9,3771631.06,65.44,6,13.67
+2023-01,Bangalore Weaves,Topwear,8,1543975.55,61.5,2,4.0
+2023-01,Chennai Apparel Co,Accessories,7,1225217.51,59.29,6,11.57
+2023-01,Chennai Apparel Co,Bottomwear,12,3892672.21,59.92,7,7.08
+2023-01,Chennai Apparel Co,Dresses,2,736166.23,30.5,2,7.0
+2023-01,Chennai Apparel Co,Ethnic,11,5465134.18,56.0,6,9.18
+2023-01,Chennai Apparel Co,Footwear,3,1854957.67,55.67,2,18.67
+2023-01,Chennai Apparel Co,Topwear,10,2728518.7,52.2,8,8.5
+2023-01,Delhi Garment Hub,Accessories,5,904074.59,61.0,4,4.8
+2023-01,Delhi Garment Hub,Bottomwear,10,3063718.43,67.1,4,3.6
+2023-01,Delhi Garment Hub,Dresses,4,1004514.12,51.75,1,2.0
+2023-01,Delhi Garment Hub,Ethnic,11,4367683.32,49.91,8,5.64
+2023-01,Delhi Garment Hub,Footwear,4,1316966.65,59.0,3,4.75
+2023-01,Delhi Garment Hub,Topwear,6,1684155.77,58.5,6,14.0
+2023-01,Jaipur Ethnic Works,Accessories,8,1620683.32,63.62,4,2.38
+2023-01,Jaipur Ethnic Works,Bottomwear,6,1283868.98,60.67,4,9.83
+2023-01,Jaipur Ethnic Works,Dresses,4,1780873.01,57.75,2,5.25
+2023-01,Jaipur Ethnic Works,Ethnic,6,2426585.4,54.33,5,6.67
+2023-01,Jaipur Ethnic Works,Footwear,4,1368495.69,60.75,1,1.5
+2023-01,Jaipur Ethnic Works,Topwear,10,2134545.03,60.4,8,5.0
+2023-01,Ludhiana Knits,Accessories,15,2300119.64,55.13,8,4.2
+2023-01,Ludhiana Knits,Bottomwear,14,3705735.32,62.21,10,5.57
+2023-01,Ludhiana Knits,Dresses,5,1456109.19,68.2,2,7.8
+2023-01,Ludhiana Knits,Ethnic,7,3941876.21,64.43,5,9.14
+2023-01,Ludhiana Knits,Footwear,13,7166632.38,61.62,9,6.54
+2023-01,Ludhiana Knits,Topwear,11,3101969.93,69.0,6,7.0
+2023-01,Mumbai Exports Ltd,Accessories,7,1497316.02,57.29,5,12.14
+2023-01,Mumbai Exports Ltd,Bottomwear,7,1654237.76,56.29,5,7.14
+2023-01,Mumbai Exports Ltd,Dresses,4,1909039.08,45.25,3,14.75
+2023-01,Mumbai Exports Ltd,Ethnic,11,6113530.66,64.55,5,6.73
+2023-01,Mumbai Exports Ltd,Footwear,7,3794551.71,54.14,4,4.43
+2023-01,Mumbai Exports Ltd,Topwear,8,2561664.65,67.0,3,2.0
+2023-01,Surat Fabrics Co,Accessories,8,1599887.15,62.75,5,3.62
+2023-01,Surat Fabrics Co,Bottomwear,5,2019148.17,57.0,2,9.4
+2023-01,Surat Fabrics Co,Dresses,3,920371.15,54.33,1,2.67
+2023-01,Surat Fabrics Co,Ethnic,5,2968125.66,72.6,4,13.4
+2023-01,Surat Fabrics Co,Footwear,7,5441112.69,62.14,5,10.43
+2023-01,Surat Fabrics Co,Topwear,15,3513924.57,55.93,8,5.73
+2023-01,Tiruppur Mills,Accessories,7,1096445.29,70.0,3,5.57
+2023-01,Tiruppur Mills,Bottomwear,6,2625573.5,62.0,5,9.17
+2023-01,Tiruppur Mills,Dresses,7,2785279.48,60.29,6,7.71
+2023-01,Tiruppur Mills,Ethnic,9,4753827.54,62.89,6,5.89
+2023-01,Tiruppur Mills,Footwear,6,4254629.9,57.0,5,10.67
+2023-01,Tiruppur Mills,Topwear,10,2303680.7,63.7,7,8.7
+2023-02,Bangalore Weaves,Accessories,9,1842085.55,59.56,7,11.56
+2023-02,Bangalore Weaves,Bottomwear,6,2168438.88,61.0,4,9.5
+2023-02,Bangalore Weaves,Dresses,7,2953215.1,71.57,5,4.71
+2023-02,Bangalore Weaves,Ethnic,7,4145025.55,53.71,3,3.86
+2023-02,Bangalore Weaves,Footwear,6,3817412.64,74.17,3,2.83
+2023-02,Bangalore Weaves,Topwear,12,3266944.35,53.58,7,14.08
+2023-02,Chennai Apparel Co,Accessories,12,2265425.65,59.83,4,2.17
+2023-02,Chennai Apparel Co,Bottomwear,8,1843645.6,60.88,6,6.5
+2023-02,Chennai Apparel Co,Dresses,6,1880629.07,65.17,4,16.33
+2023-02,Chennai Apparel Co,Ethnic,1,157300.62,52.0,0,0.0
+2023-02,Chennai Apparel Co,Footwear,5,2148886.65,68.0,1,0.4
+2023-02,Chennai Apparel Co,Topwear,5,1392649.14,53.6,4,2.8
+2023-02,Delhi Garment Hub,Accessories,4,966930.94,57.0,4,11.25
+2023-02,Delhi Garment Hub,Bottomwear,5,1818434.94,66.8,2,6.6
+2023-02,Delhi Garment Hub,Dresses,6,2869358.86,49.17,4,9.0
+2023-02,Delhi Garment Hub,Ethnic,8,3769240.91,55.25,5,11.12
+2023-02,Delhi Garment Hub,Footwear,10,4832845.71,49.4,5,6.8
+2023-02,Delhi Garment Hub,Topwear,12,2534581.63,55.67,5,2.58
+2023-02,Jaipur Ethnic Works,Accessories,5,793494.55,62.8,3,7.0
+2023-02,Jaipur Ethnic Works,Bottomwear,9,3694048.75,69.67,4,9.67
+2023-02,Jaipur Ethnic Works,Ethnic,4,1818575.94,62.25,3,8.75
+2023-02,Jaipur Ethnic Works,Footwear,5,3214850.47,67.6,5,20.2
+2023-02,Jaipur Ethnic Works,Topwear,8,1821691.77,48.88,4,4.5
+2023-02,Ludhiana Knits,Accessories,4,659863.62,60.0,3,8.5
+2023-02,Ludhiana Knits,Bottomwear,3,1209024.25,64.0,3,8.0
+2023-02,Ludhiana Knits,Dresses,2,934367.17,53.0,0,0.0
+2023-02,Ludhiana Knits,Ethnic,6,2727648.84,62.83,3,3.0
+2023-02,Ludhiana Knits,Footwear,13,6619682.07,61.38,6,7.62
+2023-02,Ludhiana Knits,Topwear,17,4620828.79,56.0,11,12.41
+2023-02,Mumbai Exports Ltd,Accessories,13,2115186.7,67.85,10,15.23
+2023-02,Mumbai Exports Ltd,Bottomwear,7,2467552.85,78.43,3,4.43
+2023-02,Mumbai Exports Ltd,Dresses,4,1331421.17,63.0,3,2.75
+2023-02,Mumbai Exports Ltd,Ethnic,2,1642044.38,52.5,2,4.5
+2023-02,Mumbai Exports Ltd,Footwear,9,3777604.77,52.89,4,9.11
+2023-02,Mumbai Exports Ltd,Topwear,6,1734594.17,60.83,5,12.5
+2023-02,Surat Fabrics Co,Accessories,11,2568410.75,65.64,8,4.64
+2023-02,Surat Fabrics Co,Bottomwear,5,2120186.96,60.6,3,12.8
+2023-02,Surat Fabrics Co,Dresses,8,2310153.85,59.38,4,5.25
+2023-02,Surat Fabrics Co,Ethnic,9,3819045.35,61.89,3,7.33
+2023-02,Surat Fabrics Co,Footwear,8,5368133.77,67.62,4,2.88
+2023-02,Surat Fabrics Co,Topwear,12,3085059.81,68.5,6,6.5
+2023-02,Tiruppur Mills,Accessories,9,1383927.47,59.56,7,6.89
+2023-02,Tiruppur Mills,Bottomwear,3,1258151.62,66.67,3,4.67
+2023-02,Tiruppur Mills,Dresses,5,2769368.81,58.8,3,9.6
+2023-02,Tiruppur Mills,Ethnic,4,1520456.03,79.0,2,8.0
+2023-02,Tiruppur Mills,Footwear,10,3955873.08,57.0,9,11.4
+2023-02,Tiruppur Mills,Topwear,7,1966660.15,58.57,2,5.57
+2023-03,Bangalore Weaves,Accessories,9,1929891.09,62.44,7,7.22
+2023-03,Bangalore Weaves,Bottomwear,8,2126428.16,53.88,5,12.88
+2023-03,Bangalore Weaves,Dresses,5,1751749.43,62.2,5,25.0
+2023-03,Bangalore Weaves,Ethnic,5,1793621.65,49.2,1,1.4
+2023-03,Bangalore Weaves,Footwear,6,3127369.76,47.0,2,6.33
+2023-03,Bangalore Weaves,Topwear,13,3638226.47,61.77,6,8.08
+2023-03,Chennai Apparel Co,Accessories,10,1879206.85,61.9,6,4.8
+2023-03,Chennai Apparel Co,Bottomwear,8,2272459.06,48.38,4,3.12
+2023-03,Chennai Apparel Co,Dresses,7,2352455.97,49.71,3,4.86
+2023-03,Chennai Apparel Co,Ethnic,8,3574634.82,61.88,7,10.0
+2023-03,Chennai Apparel Co,Footwear,13,9554734.33,61.46,8,9.92
+2023-03,Chennai Apparel Co,Topwear,8,1799863.18,59.62,5,13.25
+2023-03,Delhi Garment Hub,Accessories,5,973036.17,73.2,2,9.6
+2023-03,Delhi Garment Hub,Bottomwear,8,2321319.69,51.0,4,6.5
+2023-03,Delhi Garment Hub,Dresses,5,1418931.53,60.6,2,9.4
+2023-03,Delhi Garment Hub,Ethnic,8,2552087.91,61.25,4,12.0
+2023-03,Delhi Garment Hub,Footwear,7,4476478.8,60.0,5,4.43
+2023-03,Delhi Garment Hub,Topwear,11,2841549.52,68.27,7,14.55
+2023-03,Jaipur Ethnic Works,Accessories,9,1945408.43,50.89,6,9.78
+2023-03,Jaipur Ethnic Works,Bottomwear,13,4849506.32,59.85,7,6.38
+2023-03,Jaipur Ethnic Works,Dresses,4,1247900.53,64.75,3,9.25
+2023-03,Jaipur Ethnic Works,Ethnic,12,6148654.03,61.75,7,4.25
+2023-03,Jaipur Ethnic Works,Footwear,7,4943198.02,58.29,3,3.86
+2023-03,Jaipur Ethnic Works,Topwear,10,2538422.17,55.7,7,4.2
+2023-03,Ludhiana Knits,Accessories,8,1679857.18,58.38,3,1.75
+2023-03,Ludhiana Knits,Bottomwear,9,1807504.94,64.78,8,9.89
+2023-03,Ludhiana Knits,Dresses,11,3983933.07,59.91,8,7.73
+2023-03,Ludhiana Knits,Ethnic,4,2424265.25,73.75,3,4.75
+2023-03,Ludhiana Knits,Footwear,2,699893.0,52.0,1,4.5
+2023-03,Ludhiana Knits,Topwear,7,1350601.09,60.57,3,6.71
+2023-03,Mumbai Exports Ltd,Accessories,11,2207325.89,60.09,7,8.82
+2023-03,Mumbai Exports Ltd,Bottomwear,10,3856461.22,53.9,3,1.9
+2023-03,Mumbai Exports Ltd,Dresses,4,2426181.26,72.0,3,9.25
+2023-03,Mumbai Exports Ltd,Ethnic,3,1342905.36,59.0,2,13.33
+2023-03,Mumbai Exports Ltd,Footwear,10,7355944.74,55.2,4,2.4
+2023-03,Mumbai Exports Ltd,Topwear,12,2812677.17,65.33,5,3.5
+2023-03,Surat Fabrics Co,Accessories,9,2233620.85,62.22,4,5.0
+2023-03,Surat Fabrics Co,Bottomwear,6,1911256.4,70.0,4,10.5
+2023-03,Surat Fabrics Co,Dresses,2,1451113.49,60.0,1,15.5
+2023-03,Surat Fabrics Co,Ethnic,3,1564307.26,50.33,3,7.67
+2023-03,Surat Fabrics Co,Footwear,4,2181956.23,64.25,3,10.75
+2023-03,Surat Fabrics Co,Topwear,4,1390868.07,56.0,2,10.25
+2023-03,Tiruppur Mills,Accessories,6,1126869.85,64.0,3,5.33
+2023-03,Tiruppur Mills,Bottomwear,6,1440476.17,53.67,3,11.67
+2023-03,Tiruppur Mills,Dresses,3,1688461.48,42.33,2,5.0
+2023-03,Tiruppur Mills,Ethnic,5,2010422.95,74.8,2,8.0
+2023-03,Tiruppur Mills,Footwear,8,3671609.39,65.62,1,1.88
+2023-03,Tiruppur Mills,Topwear,16,5092188.62,60.75,8,8.31
+2023-04,Bangalore Weaves,Accessories,9,1600221.35,50.67,7,6.56
+2023-04,Bangalore Weaves,Bottomwear,7,2291134.25,52.29,4,7.71
+2023-04,Bangalore Weaves,Dresses,4,2019953.38,54.5,2,14.5
+2023-04,Bangalore Weaves,Ethnic,11,4447385.79,50.09,9,9.82
+2023-04,Bangalore Weaves,Footwear,8,4214936.36,65.0,4,3.25
+2023-04,Bangalore Weaves,Topwear,9,1828575.76,57.44,4,3.0
+2023-04,Chennai Apparel Co,Accessories,8,1368480.73,62.25,6,7.0
+2023-04,Chennai Apparel Co,Bottomwear,8,2109812.41,70.25,4,5.5
+2023-04,Chennai Apparel Co,Dresses,3,1489348.28,58.0,1,3.33
+2023-04,Chennai Apparel Co,Ethnic,14,6775302.37,63.71,9,8.64
+2023-04,Chennai Apparel Co,Footwear,7,5191973.69,54.0,4,18.0
+2023-04,Chennai Apparel Co,Topwear,7,998768.87,52.14,4,5.86
+2023-04,Delhi Garment Hub,Accessories,9,2428549.56,60.56,3,5.89
+2023-04,Delhi Garment Hub,Bottomwear,8,1843427.11,59.38,4,6.88
+2023-04,Delhi Garment Hub,Dresses,6,2612087.45,67.0,5,11.0
+2023-04,Delhi Garment Hub,Ethnic,10,5713436.12,67.3,7,5.5
+2023-04,Delhi Garment Hub,Footwear,6,3923039.19,55.67,3,7.17
+2023-04,Delhi Garment Hub,Topwear,11,2881471.48,61.18,9,9.36
+2023-04,Jaipur Ethnic Works,Accessories,4,513321.35,55.25,3,14.25
+2023-04,Jaipur Ethnic Works,Bottomwear,13,4094972.53,59.23,7,6.46
+2023-04,Jaipur Ethnic Works,Dresses,5,2125475.22,64.8,2,4.4
+2023-04,Jaipur Ethnic Works,Ethnic,6,2074692.16,50.83,4,9.83
+2023-04,Jaipur Ethnic Works,Footwear,6,3725120.74,64.0,6,8.0
+2023-04,Jaipur Ethnic Works,Topwear,8,1649198.45,56.38,4,10.75
+2023-04,Ludhiana Knits,Accessories,6,1197621.06,58.33,3,5.0
+2023-04,Ludhiana Knits,Bottomwear,10,3071524.65,67.1,8,9.6
+2023-04,Ludhiana Knits,Dresses,11,4800176.78,62.36,8,10.36
+2023-04,Ludhiana Knits,Ethnic,5,1521354.81,49.0,2,4.0
+2023-04,Ludhiana Knits,Footwear,3,1966688.28,47.67,2,6.33
+2023-04,Ludhiana Knits,Topwear,7,2273722.11,61.86,5,2.43
+2023-04,Mumbai Exports Ltd,Accessories,6,873119.77,51.0,2,3.5
+2023-04,Mumbai Exports Ltd,Bottomwear,9,2887103.91,65.0,5,9.33
+2023-04,Mumbai Exports Ltd,Dresses,10,3757333.74,68.2,3,4.4
+2023-04,Mumbai Exports Ltd,Ethnic,7,3725377.1,50.57,5,10.57
+2023-04,Mumbai Exports Ltd,Footwear,9,5757097.31,62.44,3,2.89
+2023-04,Mumbai Exports Ltd,Topwear,6,1856097.33,73.17,4,13.5
+2023-04,Surat Fabrics Co,Accessories,7,1684345.22,62.29,4,8.29
+2023-04,Surat Fabrics Co,Bottomwear,6,1406000.95,62.67,4,9.0
+2023-04,Surat Fabrics Co,Dresses,6,2423494.11,61.33,2,5.0
+2023-04,Surat Fabrics Co,Ethnic,2,1358451.47,75.0,1,3.0
+2023-04,Surat Fabrics Co,Footwear,6,4446953.55,49.0,0,0.0
+2023-04,Surat Fabrics Co,Topwear,4,1248377.96,74.25,2,6.25
+2023-04,Tiruppur Mills,Accessories,8,1016172.12,57.0,7,10.12
+2023-04,Tiruppur Mills,Bottomwear,9,3309944.84,57.78,7,3.56
+2023-04,Tiruppur Mills,Dresses,9,2767312.49,66.44,6,9.33
+2023-04,Tiruppur Mills,Ethnic,11,4131198.75,65.82,6,3.0
+2023-04,Tiruppur Mills,Footwear,9,4724468.33,60.22,5,10.67
+2023-04,Tiruppur Mills,Topwear,14,4350801.34,68.5,7,9.5
+2023-05,Bangalore Weaves,Accessories,13,2749603.54,56.92,7,10.54
+2023-05,Bangalore Weaves,Bottomwear,11,3734587.36,66.82,8,4.27
+2023-05,Bangalore Weaves,Dresses,5,2180508.46,69.2,2,2.6
+2023-05,Bangalore Weaves,Ethnic,7,3060687.67,72.57,5,15.57
+2023-05,Bangalore Weaves,Footwear,7,3330155.85,69.0,4,9.14
+2023-05,Bangalore Weaves,Topwear,13,3739201.05,63.08,9,4.54
+2023-05,Chennai Apparel Co,Accessories,7,1090512.26,59.0,1,6.29
+2023-05,Chennai Apparel Co,Bottomwear,3,1019622.38,64.33,1,4.0
+2023-05,Chennai Apparel Co,Dresses,6,3371569.1,54.17,3,9.33
+2023-05,Chennai Apparel Co,Ethnic,10,4652568.69,64.0,8,12.6
+2023-05,Chennai Apparel Co,Footwear,10,5286436.49,60.6,6,8.6
+2023-05,Chennai Apparel Co,Topwear,8,2059354.29,61.5,5,11.62
+2023-05,Delhi Garment Hub,Accessories,5,976088.13,54.4,3,3.0
+2023-05,Delhi Garment Hub,Bottomwear,5,2114469.22,77.6,5,11.4
+2023-05,Delhi Garment Hub,Dresses,8,3088675.06,64.88,5,6.0
+2023-05,Delhi Garment Hub,Ethnic,9,4340068.3,62.56,3,4.0
+2023-05,Delhi Garment Hub,Footwear,6,2318943.87,62.83,2,10.33
+2023-05,Delhi Garment Hub,Topwear,7,1720565.12,59.71,3,6.71
+2023-05,Jaipur Ethnic Works,Accessories,11,1472095.9,56.91,5,8.45
+2023-05,Jaipur Ethnic Works,Bottomwear,8,2522059.21,60.88,4,7.75
+2023-05,Jaipur Ethnic Works,Dresses,6,2413981.35,44.5,5,6.17
+2023-05,Jaipur Ethnic Works,Ethnic,10,4434918.14,57.1,6,3.5
+2023-05,Jaipur Ethnic Works,Footwear,10,6357783.35,57.1,5,7.8
+2023-05,Jaipur Ethnic Works,Topwear,12,2687169.73,62.5,9,6.42
+2023-05,Ludhiana Knits,Accessories,7,1368739.97,58.71,6,13.14
+2023-05,Ludhiana Knits,Bottomwear,8,2497093.83,62.5,5,8.38
+2023-05,Ludhiana Knits,Dresses,12,3673651.25,54.5,7,4.58
+2023-05,Ludhiana Knits,Ethnic,5,1882245.53,56.4,2,3.6
+2023-05,Ludhiana Knits,Footwear,5,2276686.68,50.2,3,8.6
+2023-05,Ludhiana Knits,Topwear,11,3264497.51,57.55,9,13.45
+2023-05,Mumbai Exports Ltd,Accessories,6,1182740.46,44.33,2,2.83
+2023-05,Mumbai Exports Ltd,Bottomwear,5,2127303.5,50.6,3,5.6
+2023-05,Mumbai Exports Ltd,Dresses,5,1705412.23,63.2,5,12.6
+2023-05,Mumbai Exports Ltd,Ethnic,7,2320769.87,53.43,2,2.0
+2023-05,Mumbai Exports Ltd,Footwear,8,3979382.28,68.12,3,11.88
+2023-05,Mumbai Exports Ltd,Topwear,4,1219367.73,61.25,1,0.25
+2023-05,Surat Fabrics Co,Accessories,10,2124476.56,53.0,6,6.6
+2023-05,Surat Fabrics Co,Bottomwear,8,1942138.89,59.0,3,4.88
+2023-05,Surat Fabrics Co,Dresses,1,152741.56,46.0,0,0.0
+2023-05,Surat Fabrics Co,Ethnic,9,3128173.67,70.44,5,4.44
+2023-05,Surat Fabrics Co,Footwear,9,4592513.89,68.33,6,9.33
+2023-05,Surat Fabrics Co,Topwear,10,2495275.59,68.9,8,3.5
+2023-05,Tiruppur Mills,Accessories,7,1242952.77,62.29,2,3.86
+2023-05,Tiruppur Mills,Bottomwear,13,3966021.93,55.46,8,9.85
+2023-05,Tiruppur Mills,Dresses,7,3285607.2,56.86,4,7.57
+2023-05,Tiruppur Mills,Ethnic,9,4358983.94,63.89,6,9.33
+2023-05,Tiruppur Mills,Footwear,6,3122536.52,61.83,5,15.5
+2023-05,Tiruppur Mills,Topwear,11,2835508.68,47.91,5,6.91
+2023-06,Bangalore Weaves,Accessories,11,2441391.88,62.18,4,7.09
+2023-06,Bangalore Weaves,Bottomwear,7,3051038.38,54.57,6,5.29
+2023-06,Bangalore Weaves,Dresses,6,1890773.18,64.5,3,5.33
+2023-06,Bangalore Weaves,Ethnic,4,2030733.2,72.25,0,0.0
+2023-06,Bangalore Weaves,Footwear,9,2920701.91,56.44,5,7.67
+2023-06,Bangalore Weaves,Topwear,13,3607115.23,59.54,9,4.0
+2023-06,Chennai Apparel Co,Accessories,9,1326985.93,58.78,6,9.0
+2023-06,Chennai Apparel Co,Bottomwear,9,3363806.65,66.22,5,13.11
+2023-06,Chennai Apparel Co,Dresses,5,1488316.97,48.2,3,6.0
+2023-06,Chennai Apparel Co,Ethnic,9,5162133.92,63.67,3,4.22
+2023-06,Chennai Apparel Co,Footwear,4,2036358.65,60.25,2,17.25
+2023-06,Chennai Apparel Co,Topwear,6,1698513.15,55.33,2,12.33
+2023-06,Delhi Garment Hub,Accessories,13,2589612.63,60.0,5,5.62
+2023-06,Delhi Garment Hub,Bottomwear,6,1615447.88,52.83,3,2.83
+2023-06,Delhi Garment Hub,Dresses,5,2054392.78,61.0,4,6.0
+2023-06,Delhi Garment Hub,Ethnic,2,539892.18,67.0,1,1.5
+2023-06,Delhi Garment Hub,Footwear,6,3363915.81,65.0,4,6.5
+2023-06,Delhi Garment Hub,Topwear,15,4961715.21,57.33,10,5.33
+2023-06,Jaipur Ethnic Works,Accessories,5,1051998.21,55.8,4,6.4
+2023-06,Jaipur Ethnic Works,Bottomwear,9,3457837.9,63.78,7,7.89
+2023-06,Jaipur Ethnic Works,Dresses,3,2159425.33,62.67,2,3.0
+2023-06,Jaipur Ethnic Works,Ethnic,11,5259226.8,62.82,8,12.73
+2023-06,Jaipur Ethnic Works,Footwear,10,5759344.33,61.5,4,1.4
+2023-06,Jaipur Ethnic Works,Topwear,10,2478387.73,56.0,7,16.7
+2023-06,Ludhiana Knits,Accessories,8,1512258.69,60.38,6,7.38
+2023-06,Ludhiana Knits,Bottomwear,9,2470825.58,66.11,6,7.44
+2023-06,Ludhiana Knits,Dresses,5,1613124.19,59.0,1,1.6
+2023-06,Ludhiana Knits,Ethnic,7,3736128.32,69.29,4,5.86
+2023-06,Ludhiana Knits,Footwear,7,3443345.38,58.71,4,10.0
+2023-06,Ludhiana Knits,Topwear,12,3849118.39,59.33,5,9.5
+2023-06,Mumbai Exports Ltd,Accessories,8,1440373.1,64.88,5,6.88
+2023-06,Mumbai Exports Ltd,Bottomwear,6,1312183.32,48.83,5,2.17
+2023-06,Mumbai Exports Ltd,Dresses,5,2609177.42,61.0,5,20.6
+2023-06,Mumbai Exports Ltd,Ethnic,9,3072040.76,63.11,5,4.56
+2023-06,Mumbai Exports Ltd,Footwear,3,2035780.86,55.0,3,15.67
+2023-06,Mumbai Exports Ltd,Topwear,13,3786953.58,58.08,12,13.69
+2023-06,Surat Fabrics Co,Accessories,5,1172526.41,62.8,2,3.6
+2023-06,Surat Fabrics Co,Bottomwear,4,1451163.45,61.5,3,17.75
+2023-06,Surat Fabrics Co,Dresses,5,1924335.82,59.6,3,20.8
+2023-06,Surat Fabrics Co,Ethnic,7,3717639.89,70.29,4,11.86
+2023-06,Surat Fabrics Co,Footwear,6,3324157.98,62.5,4,9.67
+2023-06,Surat Fabrics Co,Topwear,11,2285929.91,58.09,10,6.91
+2023-06,Tiruppur Mills,Accessories,11,1858300.19,58.09,7,5.36
+2023-06,Tiruppur Mills,Bottomwear,4,1116574.19,62.5,2,3.0
+2023-06,Tiruppur Mills,Dresses,8,3980707.03,65.62,5,3.0
+2023-06,Tiruppur Mills,Ethnic,6,3551187.24,52.17,4,8.67
+2023-06,Tiruppur Mills,Footwear,4,1887660.11,41.25,2,5.75
+2023-06,Tiruppur Mills,Topwear,8,1854112.95,63.5,5,3.88
+2023-07,Bangalore Weaves,Accessories,9,1711437.95,47.11,5,4.89
+2023-07,Bangalore Weaves,Bottomwear,10,3184425.13,62.6,8,11.0
+2023-07,Bangalore Weaves,Dresses,7,3109960.0,67.43,4,3.14
+2023-07,Bangalore Weaves,Ethnic,5,2765649.24,56.0,4,6.0
+2023-07,Bangalore Weaves,Footwear,6,3803972.13,52.17,6,12.67
+2023-07,Bangalore Weaves,Topwear,6,1710666.84,55.83,5,11.83
+2023-07,Chennai Apparel Co,Accessories,16,3360455.8,61.38,9,9.69
+2023-07,Chennai Apparel Co,Bottomwear,7,2190224.35,69.86,6,12.57
+2023-07,Chennai Apparel Co,Dresses,7,3152873.03,64.43,6,19.43
+2023-07,Chennai Apparel Co,Ethnic,2,525913.9,46.0,2,21.0
+2023-07,Chennai Apparel Co,Footwear,7,4251434.52,57.14,4,8.29
+2023-07,Chennai Apparel Co,Topwear,17,4162168.9,52.47,12,6.41
+2023-07,Delhi Garment Hub,Accessories,9,1211464.22,57.78,3,7.0
+2023-07,Delhi Garment Hub,Bottomwear,4,998086.02,62.25,2,8.0
+2023-07,Delhi Garment Hub,Dresses,7,1912522.82,58.29,5,3.43
+2023-07,Delhi Garment Hub,Ethnic,6,2792858.92,58.17,6,13.83
+2023-07,Delhi Garment Hub,Footwear,7,5128996.89,64.29,4,8.14
+2023-07,Delhi Garment Hub,Topwear,11,3364312.98,58.73,7,10.36
+2023-07,Jaipur Ethnic Works,Accessories,10,2284663.41,52.3,5,7.9
+2023-07,Jaipur Ethnic Works,Bottomwear,6,1545583.19,58.33,6,16.17
+2023-07,Jaipur Ethnic Works,Dresses,3,951775.03,58.0,0,0.0
+2023-07,Jaipur Ethnic Works,Ethnic,8,4360619.37,61.5,4,10.0
+2023-07,Jaipur Ethnic Works,Footwear,6,2539778.02,62.67,4,12.33
+2023-07,Jaipur Ethnic Works,Topwear,9,2693839.59,67.0,5,7.89
+2023-07,Ludhiana Knits,Accessories,11,2398715.39,63.55,7,10.18
+2023-07,Ludhiana Knits,Bottomwear,11,2546795.24,61.0,5,5.27
+2023-07,Ludhiana Knits,Dresses,5,2082924.9,69.8,3,12.6
+2023-07,Ludhiana Knits,Ethnic,11,4937073.71,68.64,5,3.64
+2023-07,Ludhiana Knits,Footwear,5,2602321.47,54.2,3,9.6
+2023-07,Ludhiana Knits,Topwear,4,928436.55,63.25,3,7.75
+2023-07,Mumbai Exports Ltd,Accessories,7,1358706.38,51.43,7,16.57
+2023-07,Mumbai Exports Ltd,Bottomwear,11,4103405.0,53.64,9,5.91
+2023-07,Mumbai Exports Ltd,Dresses,6,3572976.4,68.83,3,3.33
+2023-07,Mumbai Exports Ltd,Ethnic,9,3572438.06,53.0,7,16.44
+2023-07,Mumbai Exports Ltd,Footwear,11,5157209.1,51.55,7,4.82
+2023-07,Mumbai Exports Ltd,Topwear,12,2931320.38,67.17,3,2.08
+2023-07,Surat Fabrics Co,Accessories,10,1917125.31,61.6,7,10.7
+2023-07,Surat Fabrics Co,Bottomwear,11,3878019.26,65.0,6,5.18
+2023-07,Surat Fabrics Co,Dresses,5,2336649.47,48.8,1,7.2
+2023-07,Surat Fabrics Co,Ethnic,10,5852320.23,63.5,7,4.9
+2023-07,Surat Fabrics Co,Footwear,7,3161859.64,57.0,5,5.29
+2023-07,Surat Fabrics Co,Topwear,13,2856618.89,61.69,10,7.31
+2023-07,Tiruppur Mills,Accessories,8,1438175.21,69.0,4,5.38
+2023-07,Tiruppur Mills,Bottomwear,9,2805153.82,64.0,4,3.11
+2023-07,Tiruppur Mills,Dresses,7,3310588.15,57.57,2,2.14
+2023-07,Tiruppur Mills,Ethnic,7,3560842.13,65.29,5,6.0
+2023-07,Tiruppur Mills,Footwear,8,4472132.91,54.25,4,10.75
+2023-07,Tiruppur Mills,Topwear,8,2024683.51,61.0,5,10.25
+2023-08,Bangalore Weaves,Accessories,16,3718095.18,64.44,8,6.88
+2023-08,Bangalore Weaves,Bottomwear,11,2941964.98,60.09,4,8.64
+2023-08,Bangalore Weaves,Dresses,4,1194076.23,55.75,1,2.0
+2023-08,Bangalore Weaves,Ethnic,6,2411931.65,70.67,4,7.67
+2023-08,Bangalore Weaves,Footwear,9,6144443.02,53.44,6,6.33
+2023-08,Bangalore Weaves,Topwear,17,4328683.11,61.82,12,7.12
+2023-08,Chennai Apparel Co,Accessories,6,859719.87,61.67,4,9.33
+2023-08,Chennai Apparel Co,Bottomwear,13,3689880.61,55.85,7,7.31
+2023-08,Chennai Apparel Co,Dresses,6,2348848.78,49.67,5,6.17
+2023-08,Chennai Apparel Co,Ethnic,6,3328029.04,49.33,5,6.67
+2023-08,Chennai Apparel Co,Footwear,5,3735343.36,67.8,4,14.0
+2023-08,Chennai Apparel Co,Topwear,13,3442604.33,66.46,11,9.92
+2023-08,Delhi Garment Hub,Accessories,8,1809526.08,55.88,6,9.0
+2023-08,Delhi Garment Hub,Bottomwear,4,1123589.6,72.75,2,3.25
+2023-08,Delhi Garment Hub,Dresses,8,2972289.62,61.75,4,4.25
+2023-08,Delhi Garment Hub,Ethnic,9,5227904.18,57.67,4,5.0
+2023-08,Delhi Garment Hub,Footwear,13,8056214.27,66.92,8,4.08
+2023-08,Delhi Garment Hub,Topwear,4,530638.96,68.25,3,9.5
+2023-08,Jaipur Ethnic Works,Accessories,12,2657928.88,66.75,9,7.92
+2023-08,Jaipur Ethnic Works,Bottomwear,6,2063917.36,46.5,3,7.0
+2023-08,Jaipur Ethnic Works,Dresses,7,2888987.47,58.57,3,3.71
+2023-08,Jaipur Ethnic Works,Ethnic,10,3991359.35,53.2,5,4.9
+2023-08,Jaipur Ethnic Works,Footwear,2,820488.67,73.5,0,0.0
+2023-08,Jaipur Ethnic Works,Topwear,10,2257861.18,63.5,7,9.6
+2023-08,Ludhiana Knits,Accessories,6,1205635.07,68.17,5,10.0
+2023-08,Ludhiana Knits,Bottomwear,9,3106542.53,59.56,5,12.33
+2023-08,Ludhiana Knits,Dresses,5,1958508.47,63.4,1,0.4
+2023-08,Ludhiana Knits,Ethnic,11,3576989.64,59.45,6,5.82
+2023-08,Ludhiana Knits,Footwear,8,4093113.61,50.88,4,9.5
+2023-08,Ludhiana Knits,Topwear,9,2295388.98,60.22,7,4.44
+2023-08,Mumbai Exports Ltd,Accessories,11,2384573.29,65.55,4,3.36
+2023-08,Mumbai Exports Ltd,Bottomwear,4,1662978.0,74.25,4,23.0
+2023-08,Mumbai Exports Ltd,Dresses,6,2476132.92,50.5,3,9.67
+2023-08,Mumbai Exports Ltd,Ethnic,10,3850852.12,56.2,4,5.9
+2023-08,Mumbai Exports Ltd,Footwear,6,3872879.26,64.0,4,12.83
+2023-08,Mumbai Exports Ltd,Topwear,5,982374.21,59.2,3,6.2
+2023-08,Surat Fabrics Co,Accessories,6,690064.82,70.33,5,7.0
+2023-08,Surat Fabrics Co,Bottomwear,14,4338621.57,64.36,8,7.14
+2023-08,Surat Fabrics Co,Dresses,6,2333479.98,51.0,2,13.5
+2023-08,Surat Fabrics Co,Ethnic,8,4848875.4,47.75,2,2.62
+2023-08,Surat Fabrics Co,Footwear,7,3678892.44,67.71,3,3.71
+2023-08,Surat Fabrics Co,Topwear,9,2423300.37,61.22,5,3.89
+2023-08,Tiruppur Mills,Accessories,9,1596967.16,63.33,6,8.22
+2023-08,Tiruppur Mills,Bottomwear,6,1348429.31,67.17,1,1.83
+2023-08,Tiruppur Mills,Dresses,9,2565357.48,57.0,5,9.67
+2023-08,Tiruppur Mills,Ethnic,6,2393003.55,64.17,2,1.33
+2023-08,Tiruppur Mills,Footwear,6,2789756.0,59.67,5,10.5
+2023-08,Tiruppur Mills,Topwear,7,1444652.63,51.71,4,9.14
+2023-09,Bangalore Weaves,Accessories,6,1076652.53,73.5,4,18.67
+2023-09,Bangalore Weaves,Bottomwear,7,1831398.09,71.29,3,6.86
+2023-09,Bangalore Weaves,Dresses,5,2027277.42,51.8,4,10.4
+2023-09,Bangalore Weaves,Ethnic,5,3043459.07,52.6,4,15.2
+2023-09,Bangalore Weaves,Footwear,4,3453863.12,72.25,2,2.25
+2023-09,Bangalore Weaves,Topwear,12,3821880.56,58.83,6,5.08
+2023-09,Chennai Apparel Co,Accessories,9,1909733.66,59.56,4,4.11
+2023-09,Chennai Apparel Co,Bottomwear,5,2093088.41,59.0,3,6.8
+2023-09,Chennai Apparel Co,Dresses,5,3168592.65,56.8,3,5.6
+2023-09,Chennai Apparel Co,Ethnic,6,3171340.99,60.67,2,4.33
+2023-09,Chennai Apparel Co,Footwear,6,3775067.89,54.67,2,7.67
+2023-09,Chennai Apparel Co,Topwear,12,3207189.67,57.42,7,8.08
+2023-09,Delhi Garment Hub,Accessories,5,697780.11,61.8,1,0.2
+2023-09,Delhi Garment Hub,Bottomwear,2,358927.68,69.5,0,0.0
+2023-09,Delhi Garment Hub,Dresses,6,2077149.61,59.17,4,7.0
+2023-09,Delhi Garment Hub,Ethnic,6,1877200.87,71.0,3,3.33
+2023-09,Delhi Garment Hub,Footwear,6,3621535.62,58.5,4,9.67
+2023-09,Delhi Garment Hub,Topwear,12,2603765.07,61.25,7,6.08
+2023-09,Jaipur Ethnic Works,Accessories,12,3114392.58,67.75,6,10.5
+2023-09,Jaipur Ethnic Works,Bottomwear,10,2700185.62,56.3,9,7.5
+2023-09,Jaipur Ethnic Works,Dresses,5,1374714.42,63.8,2,15.0
+2023-09,Jaipur Ethnic Works,Ethnic,5,2268303.4,53.8,4,8.6
+2023-09,Jaipur Ethnic Works,Footwear,9,6257349.73,60.78,4,6.67
+2023-09,Jaipur Ethnic Works,Topwear,12,3136740.03,57.67,6,5.5
+2023-09,Ludhiana Knits,Accessories,8,2030264.19,59.5,4,2.75
+2023-09,Ludhiana Knits,Bottomwear,7,2108080.93,60.14,6,9.57
+2023-09,Ludhiana Knits,Dresses,2,662709.97,58.5,2,4.5
+2023-09,Ludhiana Knits,Ethnic,2,1236317.72,46.5,2,6.5
+2023-09,Ludhiana Knits,Footwear,7,3976755.77,57.57,6,5.43
+2023-09,Ludhiana Knits,Topwear,9,2227260.85,62.78,6,4.67
+2023-09,Mumbai Exports Ltd,Accessories,8,1679657.38,57.88,4,8.38
+2023-09,Mumbai Exports Ltd,Bottomwear,6,1791120.59,46.0,4,11.5
+2023-09,Mumbai Exports Ltd,Dresses,7,3263642.22,70.29,5,8.57
+2023-09,Mumbai Exports Ltd,Ethnic,8,4076060.78,60.25,6,5.12
+2023-09,Mumbai Exports Ltd,Footwear,5,2136711.42,78.0,1,2.2
+2023-09,Mumbai Exports Ltd,Topwear,17,3868964.68,55.53,5,3.0
+2023-09,Surat Fabrics Co,Accessories,7,921127.8,58.14,4,4.57
+2023-09,Surat Fabrics Co,Bottomwear,10,3082228.06,49.8,5,4.8
+2023-09,Surat Fabrics Co,Dresses,3,1600621.69,66.67,2,7.67
+2023-09,Surat Fabrics Co,Ethnic,13,4841315.72,59.46,7,6.0
+2023-09,Surat Fabrics Co,Footwear,11,7034345.29,62.0,6,7.09
+2023-09,Surat Fabrics Co,Topwear,11,3010816.07,58.55,7,7.55
+2023-09,Tiruppur Mills,Accessories,8,1272450.6,56.12,6,7.62
+2023-09,Tiruppur Mills,Bottomwear,9,3200099.53,56.22,5,3.44
+2023-09,Tiruppur Mills,Dresses,11,4203180.51,55.27,6,9.82
+2023-09,Tiruppur Mills,Ethnic,2,744339.01,42.0,2,22.0
+2023-09,Tiruppur Mills,Footwear,10,4098183.62,62.0,7,4.4
+2023-09,Tiruppur Mills,Topwear,6,1578316.49,50.0,3,3.33
+2023-10,Bangalore Weaves,Accessories,10,2145536.01,55.4,8,9.7
+2023-10,Bangalore Weaves,Bottomwear,8,2042730.99,56.0,6,6.88
+2023-10,Bangalore Weaves,Dresses,5,2364910.44,71.0,2,5.8
+2023-10,Bangalore Weaves,Ethnic,4,1783082.77,62.75,2,5.5
+2023-10,Bangalore Weaves,Footwear,7,3368984.51,54.57,4,12.71
+2023-10,Bangalore Weaves,Topwear,9,2490651.85,53.22,4,3.78
+2023-10,Chennai Apparel Co,Accessories,6,1295345.58,59.33,4,9.33
+2023-10,Chennai Apparel Co,Bottomwear,5,1469291.62,61.8,3,2.8
+2023-10,Chennai Apparel Co,Dresses,8,2745666.04,66.75,4,4.62
+2023-10,Chennai Apparel Co,Ethnic,11,4927452.02,62.0,8,9.91
+2023-10,Chennai Apparel Co,Footwear,7,5755221.21,48.14,5,7.14
+2023-10,Chennai Apparel Co,Topwear,9,2340403.83,68.44,5,7.0
+2023-10,Delhi Garment Hub,Accessories,14,3105841.43,67.57,9,7.29
+2023-10,Delhi Garment Hub,Bottomwear,9,2671331.03,67.22,6,4.56
+2023-10,Delhi Garment Hub,Dresses,9,2828248.46,58.67,7,7.0
+2023-10,Delhi Garment Hub,Ethnic,8,3428918.96,60.25,6,18.25
+2023-10,Delhi Garment Hub,Footwear,10,5527612.52,60.3,3,3.6
+2023-10,Delhi Garment Hub,Topwear,3,715394.74,70.67,2,11.67
+2023-10,Jaipur Ethnic Works,Accessories,8,2157849.36,54.75,7,8.12
+2023-10,Jaipur Ethnic Works,Bottomwear,6,1574645.94,51.17,4,8.0
+2023-10,Jaipur Ethnic Works,Dresses,3,932312.74,36.0,3,8.67
+2023-10,Jaipur Ethnic Works,Ethnic,9,3899469.26,60.56,8,14.44
+2023-10,Jaipur Ethnic Works,Footwear,9,4246201.87,49.89,6,12.67
+2023-10,Jaipur Ethnic Works,Topwear,14,2826675.9,62.14,9,10.21
+2023-10,Ludhiana Knits,Accessories,9,2235703.89,56.44,5,4.56
+2023-10,Ludhiana Knits,Bottomwear,15,3050837.27,61.0,9,7.73
+2023-10,Ludhiana Knits,Dresses,13,5516395.07,59.85,7,4.08
+2023-10,Ludhiana Knits,Ethnic,3,1737993.27,60.33,0,0.0
+2023-10,Ludhiana Knits,Footwear,2,1821734.11,65.5,2,9.0
+2023-10,Ludhiana Knits,Topwear,13,3582579.01,53.85,9,7.62
+2023-10,Mumbai Exports Ltd,Accessories,11,2063819.98,62.36,4,1.64
+2023-10,Mumbai Exports Ltd,Bottomwear,10,2608501.54,58.8,5,8.2
+2023-10,Mumbai Exports Ltd,Dresses,3,640972.51,57.0,3,22.0
+2023-10,Mumbai Exports Ltd,Ethnic,6,2706970.17,56.5,4,10.5
+2023-10,Mumbai Exports Ltd,Footwear,14,8777361.11,63.36,8,7.21
+2023-10,Mumbai Exports Ltd,Topwear,11,4281276.3,64.0,8,7.18
+2023-10,Surat Fabrics Co,Accessories,7,1773605.46,67.71,6,8.14
+2023-10,Surat Fabrics Co,Bottomwear,9,3429087.3,55.44,6,11.67
+2023-10,Surat Fabrics Co,Dresses,5,1766692.41,52.6,2,3.6
+2023-10,Surat Fabrics Co,Ethnic,7,3131780.39,61.0,5,17.43
+2023-10,Surat Fabrics Co,Footwear,9,6291815.32,60.67,4,1.0
+2023-10,Surat Fabrics Co,Topwear,9,2620314.14,75.22,6,10.33
+2023-10,Tiruppur Mills,Accessories,9,1525833.89,54.56,5,9.44
+2023-10,Tiruppur Mills,Bottomwear,9,2497798.06,67.67,5,7.89
+2023-10,Tiruppur Mills,Dresses,10,4698390.48,63.8,6,6.0
+2023-10,Tiruppur Mills,Ethnic,10,3778426.53,70.6,6,4.8
+2023-10,Tiruppur Mills,Footwear,7,4037766.69,57.57,5,9.71
+2023-10,Tiruppur Mills,Topwear,6,1841804.09,77.33,3,10.0
+2023-11,Bangalore Weaves,Accessories,11,1849550.31,57.36,6,3.0
+2023-11,Bangalore Weaves,Bottomwear,8,2846710.67,61.5,5,4.75
+2023-11,Bangalore Weaves,Dresses,6,1662761.51,54.67,3,1.5
+2023-11,Bangalore Weaves,Ethnic,10,3933439.16,58.6,7,8.8
+2023-11,Bangalore Weaves,Footwear,9,4879276.23,53.33,7,12.78
+2023-11,Bangalore Weaves,Topwear,7,1608365.47,55.86,4,8.14
+2023-11,Chennai Apparel Co,Accessories,12,2386523.83,71.25,6,6.08
+2023-11,Chennai Apparel Co,Bottomwear,6,2268269.9,55.5,4,4.83
+2023-11,Chennai Apparel Co,Dresses,8,5247340.84,52.38,6,11.12
+2023-11,Chennai Apparel Co,Ethnic,9,5799525.07,63.56,6,9.0
+2023-11,Chennai Apparel Co,Footwear,4,1971948.25,48.25,2,2.0
+2023-11,Chennai Apparel Co,Topwear,8,1888168.1,59.88,6,12.5
+2023-11,Delhi Garment Hub,Accessories,13,2434585.3,67.0,8,3.92
+2023-11,Delhi Garment Hub,Bottomwear,5,1703333.47,67.0,0,0.0
+2023-11,Delhi Garment Hub,Dresses,6,2696913.52,54.17,2,3.0
+2023-11,Delhi Garment Hub,Ethnic,2,774597.23,81.0,2,4.0
+2023-11,Delhi Garment Hub,Footwear,7,3299541.37,49.14,3,6.14
+2023-11,Delhi Garment Hub,Topwear,13,3368449.46,66.69,7,5.92
+2023-11,Jaipur Ethnic Works,Accessories,8,1704822.59,68.38,6,9.5
+2023-11,Jaipur Ethnic Works,Bottomwear,3,1084632.58,65.67,2,1.0
+2023-11,Jaipur Ethnic Works,Dresses,6,2447498.76,60.67,5,10.5
+2023-11,Jaipur Ethnic Works,Ethnic,5,1632651.04,63.8,4,13.4
+2023-11,Jaipur Ethnic Works,Footwear,5,3502759.79,67.8,4,6.4
+2023-11,Jaipur Ethnic Works,Topwear,5,1055681.75,56.2,2,4.4
+2023-11,Ludhiana Knits,Accessories,13,2492658.12,56.69,7,7.31
+2023-11,Ludhiana Knits,Bottomwear,6,2819427.94,60.0,5,6.83
+2023-11,Ludhiana Knits,Dresses,9,4124552.63,55.22,6,6.44
+2023-11,Ludhiana Knits,Ethnic,5,2581369.3,74.0,4,6.6
+2023-11,Ludhiana Knits,Footwear,6,2554399.19,61.17,4,11.17
+2023-11,Ludhiana Knits,Topwear,8,2034362.24,71.0,7,15.12
+2023-11,Mumbai Exports Ltd,Accessories,5,983788.98,47.2,3,4.4
+2023-11,Mumbai Exports Ltd,Bottomwear,13,5259119.52,52.15,5,4.31
+2023-11,Mumbai Exports Ltd,Dresses,4,1030790.9,59.0,3,14.0
+2023-11,Mumbai Exports Ltd,Ethnic,10,4700675.13,63.3,7,8.5
+2023-11,Mumbai Exports Ltd,Footwear,5,1772976.65,61.6,2,5.6
+2023-11,Mumbai Exports Ltd,Topwear,7,1320502.13,58.0,3,4.43
+2023-11,Surat Fabrics Co,Accessories,7,1332845.14,52.43,3,3.29
+2023-11,Surat Fabrics Co,Bottomwear,5,1413469.17,61.0,3,12.6
+2023-11,Surat Fabrics Co,Dresses,6,2322695.4,72.67,3,5.17
+2023-11,Surat Fabrics Co,Ethnic,7,2641552.77,56.29,4,4.57
+2023-11,Surat Fabrics Co,Footwear,7,2825921.69,55.0,5,6.71
+2023-11,Surat Fabrics Co,Topwear,13,2332673.91,52.54,11,11.85
+2023-11,Tiruppur Mills,Accessories,6,1037407.3,62.83,5,13.5
+2023-11,Tiruppur Mills,Bottomwear,10,3171388.74,56.8,5,3.9
+2023-11,Tiruppur Mills,Dresses,6,2010619.02,53.17,3,2.33
+2023-11,Tiruppur Mills,Ethnic,7,2154770.66,53.86,5,7.43
+2023-11,Tiruppur Mills,Footwear,5,2545534.29,68.0,3,16.8
+2023-11,Tiruppur Mills,Topwear,14,2861221.59,54.43,5,3.29
+2023-12,Bangalore Weaves,Accessories,6,1306060.72,64.83,5,4.0
+2023-12,Bangalore Weaves,Bottomwear,12,3837590.11,59.67,9,9.75
+2023-12,Bangalore Weaves,Dresses,3,1743371.27,71.0,3,8.33
+2023-12,Bangalore Weaves,Ethnic,9,2932371.01,60.22,6,4.33
+2023-12,Bangalore Weaves,Footwear,10,4940209.27,62.3,9,16.9
+2023-12,Bangalore Weaves,Topwear,7,1489495.56,48.86,3,7.43
+2023-12,Chennai Apparel Co,Accessories,9,1403059.05,65.22,3,2.22
+2023-12,Chennai Apparel Co,Bottomwear,10,3815989.46,64.3,3,6.1
+2023-12,Chennai Apparel Co,Dresses,7,2075880.03,56.0,3,5.0
+2023-12,Chennai Apparel Co,Ethnic,9,2644749.51,59.78,5,9.11
+2023-12,Chennai Apparel Co,Footwear,8,3592640.27,53.75,4,6.88
+2023-12,Chennai Apparel Co,Topwear,6,1259587.72,51.0,1,1.83
+2023-12,Delhi Garment Hub,Accessories,15,2135592.64,62.07,7,6.87
+2023-12,Delhi Garment Hub,Bottomwear,10,3759829.33,63.8,5,3.9
+2023-12,Delhi Garment Hub,Dresses,3,1178062.26,61.67,1,6.67
+2023-12,Delhi Garment Hub,Ethnic,7,3069071.83,62.43,3,1.71
+2023-12,Delhi Garment Hub,Footwear,4,1509937.99,62.0,2,3.0
+2023-12,Delhi Garment Hub,Topwear,8,2749440.1,44.75,5,9.88
+2023-12,Jaipur Ethnic Works,Accessories,6,1310717.63,51.0,5,14.5
+2023-12,Jaipur Ethnic Works,Bottomwear,9,3005134.41,57.89,6,4.56
+2023-12,Jaipur Ethnic Works,Dresses,4,1520631.73,63.25,2,6.75
+2023-12,Jaipur Ethnic Works,Ethnic,7,3509203.82,62.71,4,3.86
+2023-12,Jaipur Ethnic Works,Footwear,10,5187564.57,52.7,3,1.8
+2023-12,Jaipur Ethnic Works,Topwear,17,4344069.3,57.35,11,6.59
+2023-12,Ludhiana Knits,Accessories,10,1366366.61,66.9,7,6.9
+2023-12,Ludhiana Knits,Bottomwear,6,1317661.63,45.5,2,5.83
+2023-12,Ludhiana Knits,Dresses,3,1479192.47,44.67,3,9.67
+2023-12,Ludhiana Knits,Ethnic,7,3875132.53,74.57,5,8.0
+2023-12,Ludhiana Knits,Footwear,5,1945753.08,52.0,3,6.0
+2023-12,Ludhiana Knits,Topwear,13,2833178.81,54.62,12,11.77
+2023-12,Mumbai Exports Ltd,Accessories,8,2080887.24,54.5,6,8.62
+2023-12,Mumbai Exports Ltd,Bottomwear,7,2439166.17,64.0,3,4.29
+2023-12,Mumbai Exports Ltd,Dresses,7,3028024.63,53.43,4,3.71
+2023-12,Mumbai Exports Ltd,Ethnic,8,3347987.38,53.62,8,8.12
+2023-12,Mumbai Exports Ltd,Footwear,8,4936026.19,58.25,7,8.25
+2023-12,Mumbai Exports Ltd,Topwear,7,2173754.02,58.43,4,4.57
+2023-12,Surat Fabrics Co,Accessories,8,1445279.04,64.5,2,2.38
+2023-12,Surat Fabrics Co,Bottomwear,10,2474300.58,55.6,7,5.1
+2023-12,Surat Fabrics Co,Dresses,3,1407661.52,54.33,1,2.0
+2023-12,Surat Fabrics Co,Ethnic,3,1151134.46,60.0,1,5.0
+2023-12,Surat Fabrics Co,Footwear,6,5471426.5,61.67,5,10.5
+2023-12,Surat Fabrics Co,Topwear,10,3087002.7,54.1,5,1.3
+2023-12,Tiruppur Mills,Accessories,5,878613.13,65.0,3,4.8
+2023-12,Tiruppur Mills,Bottomwear,6,2509883.76,46.67,2,7.17
+2023-12,Tiruppur Mills,Dresses,4,1200984.48,63.0,3,9.0
+2023-12,Tiruppur Mills,Ethnic,8,4111580.41,58.62,5,11.88
+2023-12,Tiruppur Mills,Footwear,5,2553080.81,66.0,4,7.2
+2023-12,Tiruppur Mills,Topwear,5,1815564.84,52.2,5,3.4
+2024-01,Bangalore Weaves,Accessories,13,2473969.84,62.92,7,4.15
+2024-01,Bangalore Weaves,Bottomwear,9,2667033.88,54.33,4,5.56
+2024-01,Bangalore Weaves,Dresses,6,2771782.89,59.17,3,9.17
+2024-01,Bangalore Weaves,Ethnic,6,2610671.31,66.5,3,4.17
+2024-01,Bangalore Weaves,Footwear,9,8122030.19,62.22,7,13.33
+2024-01,Bangalore Weaves,Topwear,11,2653336.8,58.36,6,4.55
+2024-01,Chennai Apparel Co,Accessories,14,1966540.03,61.71,5,4.93
+2024-01,Chennai Apparel Co,Bottomwear,3,714972.26,60.0,1,0.67
+2024-01,Chennai Apparel Co,Dresses,7,2496686.38,52.29,5,6.71
+2024-01,Chennai Apparel Co,Ethnic,9,4854852.6,58.89,5,11.44
+2024-01,Chennai Apparel Co,Footwear,7,3077076.21,61.57,5,12.29
+2024-01,Chennai Apparel Co,Topwear,6,870926.63,55.5,5,18.17
+2024-01,Delhi Garment Hub,Accessories,6,1190187.23,53.33,2,1.67
+2024-01,Delhi Garment Hub,Bottomwear,4,1190626.27,59.5,3,13.25
+2024-01,Delhi Garment Hub,Dresses,2,526084.11,72.0,1,1.0
+2024-01,Delhi Garment Hub,Ethnic,5,1776865.59,64.4,3,7.2
+2024-01,Delhi Garment Hub,Footwear,9,3562197.31,67.56,6,2.67
+2024-01,Delhi Garment Hub,Topwear,10,1791886.21,56.5,7,12.0
+2024-01,Jaipur Ethnic Works,Accessories,7,1749636.04,53.57,3,9.43
+2024-01,Jaipur Ethnic Works,Bottomwear,5,1325735.62,39.4,5,16.0
+2024-01,Jaipur Ethnic Works,Dresses,6,1820786.52,63.83,4,12.5
+2024-01,Jaipur Ethnic Works,Ethnic,9,4863902.11,55.78,5,13.33
+2024-01,Jaipur Ethnic Works,Footwear,10,6378676.45,58.7,7,7.9
+2024-01,Jaipur Ethnic Works,Topwear,8,2081833.17,65.38,6,9.12
+2024-01,Ludhiana Knits,Accessories,10,1429595.42,65.0,6,7.6
+2024-01,Ludhiana Knits,Bottomwear,5,1497647.18,59.0,4,11.2
+2024-01,Ludhiana Knits,Dresses,2,875836.53,68.5,2,14.5
+2024-01,Ludhiana Knits,Ethnic,7,2681777.56,73.14,5,5.43
+2024-01,Ludhiana Knits,Footwear,10,5894158.57,59.1,6,8.7
+2024-01,Ludhiana Knits,Topwear,10,2781213.67,60.7,4,4.0
+2024-01,Mumbai Exports Ltd,Accessories,11,1992058.94,57.27,8,12.82
+2024-01,Mumbai Exports Ltd,Bottomwear,4,800634.15,57.75,2,11.75
+2024-01,Mumbai Exports Ltd,Dresses,4,1795222.0,65.5,3,2.0
+2024-01,Mumbai Exports Ltd,Ethnic,9,4456094.11,67.44,7,2.89
+2024-01,Mumbai Exports Ltd,Footwear,7,2624078.38,68.29,2,3.43
+2024-01,Mumbai Exports Ltd,Topwear,8,2203973.48,56.88,3,0.62
+2024-01,Surat Fabrics Co,Accessories,10,1963010.19,60.5,6,4.9
+2024-01,Surat Fabrics Co,Bottomwear,11,4121263.97,62.73,9,13.45
+2024-01,Surat Fabrics Co,Dresses,7,2903801.7,66.71,4,7.29
+2024-01,Surat Fabrics Co,Ethnic,10,4333182.39,61.8,4,6.8
+2024-01,Surat Fabrics Co,Footwear,9,4477872.07,62.0,5,5.11
+2024-01,Surat Fabrics Co,Topwear,9,2652963.06,55.22,5,9.78
+2024-01,Tiruppur Mills,Accessories,5,1021832.83,68.0,2,2.2
+2024-01,Tiruppur Mills,Bottomwear,8,3199533.78,63.0,5,11.75
+2024-01,Tiruppur Mills,Dresses,6,1143618.35,49.83,3,2.83
+2024-01,Tiruppur Mills,Ethnic,7,3300622.95,67.29,6,9.0
+2024-01,Tiruppur Mills,Footwear,5,2166823.06,64.8,3,7.0
+2024-01,Tiruppur Mills,Topwear,10,2106179.96,52.3,8,8.2
+2024-02,Bangalore Weaves,Accessories,7,1198534.68,61.14,2,7.71
+2024-02,Bangalore Weaves,Bottomwear,7,2519205.46,69.0,5,13.57
+2024-02,Bangalore Weaves,Dresses,3,1079043.01,58.0,1,1.0
+2024-02,Bangalore Weaves,Ethnic,11,5402583.87,65.36,6,10.64
+2024-02,Bangalore Weaves,Footwear,9,6408139.25,57.67,5,7.33
+2024-02,Bangalore Weaves,Topwear,12,3882010.51,56.08,8,7.25
+2024-02,Chennai Apparel Co,Accessories,6,1516646.55,53.33,3,1.5
+2024-02,Chennai Apparel Co,Bottomwear,12,3409945.36,60.17,6,7.5
+2024-02,Chennai Apparel Co,Dresses,2,246423.47,37.0,1,5.0
+2024-02,Chennai Apparel Co,Ethnic,9,3709939.3,53.11,4,6.44
+2024-02,Chennai Apparel Co,Footwear,6,2989467.41,66.17,3,11.33
+2024-02,Chennai Apparel Co,Topwear,12,3138345.49,60.25,9,4.42
+2024-02,Delhi Garment Hub,Accessories,7,1102538.56,63.14,4,9.71
+2024-02,Delhi Garment Hub,Bottomwear,11,3274651.27,63.36,10,5.82
+2024-02,Delhi Garment Hub,Dresses,1,410903.75,54.0,1,3.0
+2024-02,Delhi Garment Hub,Ethnic,4,1462813.76,73.75,3,19.5
+2024-02,Delhi Garment Hub,Footwear,4,2752318.82,70.0,3,6.75
+2024-02,Delhi Garment Hub,Topwear,8,2756016.09,70.5,4,7.62
+2024-02,Jaipur Ethnic Works,Accessories,5,819874.85,64.6,3,12.2
+2024-02,Jaipur Ethnic Works,Bottomwear,6,2002228.52,53.17,4,4.67
+2024-02,Jaipur Ethnic Works,Dresses,3,1506120.44,64.33,2,1.33
+2024-02,Jaipur Ethnic Works,Ethnic,4,1516968.03,51.0,3,11.0
+2024-02,Jaipur Ethnic Works,Footwear,4,1985012.85,63.75,3,4.25
+2024-02,Jaipur Ethnic Works,Topwear,7,2263831.85,56.57,5,15.29
+2024-02,Ludhiana Knits,Accessories,8,1143551.1,53.5,5,3.38
+2024-02,Ludhiana Knits,Bottomwear,6,1525225.6,64.33,4,6.0
+2024-02,Ludhiana Knits,Dresses,7,2674024.17,60.57,6,14.0
+2024-02,Ludhiana Knits,Ethnic,5,2316061.76,57.6,4,10.0
+2024-02,Ludhiana Knits,Footwear,5,1835990.71,75.4,5,21.8
+2024-02,Ludhiana Knits,Topwear,3,1034664.82,51.67,2,6.67
+2024-02,Mumbai Exports Ltd,Accessories,4,760617.86,59.25,1,3.25
+2024-02,Mumbai Exports Ltd,Bottomwear,12,3309069.89,58.0,10,11.08
+2024-02,Mumbai Exports Ltd,Dresses,5,1986804.07,53.4,3,2.4
+2024-02,Mumbai Exports Ltd,Ethnic,8,4160887.87,51.0,5,7.38
+2024-02,Mumbai Exports Ltd,Footwear,4,2416060.01,65.5,2,1.75
+2024-02,Mumbai Exports Ltd,Topwear,10,3330496.46,61.0,4,4.4
+2024-02,Surat Fabrics Co,Accessories,3,713080.29,78.0,3,3.0
+2024-02,Surat Fabrics Co,Bottomwear,6,1516637.39,58.67,4,9.17
+2024-02,Surat Fabrics Co,Dresses,8,2785031.1,50.62,6,9.62
+2024-02,Surat Fabrics Co,Ethnic,11,6027002.31,62.36,4,4.27
+2024-02,Surat Fabrics Co,Footwear,10,4611181.68,69.4,7,4.8
+2024-02,Surat Fabrics Co,Topwear,5,1319494.83,61.8,2,1.8
+2024-02,Tiruppur Mills,Accessories,9,1680278.06,57.44,3,2.89
+2024-02,Tiruppur Mills,Bottomwear,9,3119656.77,64.56,3,9.33
+2024-02,Tiruppur Mills,Dresses,7,1803694.63,57.57,4,6.86
+2024-02,Tiruppur Mills,Ethnic,11,5338663.25,54.91,7,7.55
+2024-02,Tiruppur Mills,Footwear,4,2131051.94,84.0,2,7.0
+2024-02,Tiruppur Mills,Topwear,9,2474288.89,65.0,5,8.89
+2024-03,Bangalore Weaves,Accessories,9,1499215.5,49.0,5,7.0
+2024-03,Bangalore Weaves,Bottomwear,10,3734529.74,60.2,6,5.4
+2024-03,Bangalore Weaves,Dresses,6,1487430.97,59.0,4,10.0
+2024-03,Bangalore Weaves,Ethnic,9,3600639.05,67.44,5,10.22
+2024-03,Bangalore Weaves,Footwear,5,2396423.81,51.6,4,7.2
+2024-03,Bangalore Weaves,Topwear,9,2417287.79,58.89,5,7.11
+2024-03,Chennai Apparel Co,Accessories,9,1608327.39,52.78,6,6.11
+2024-03,Chennai Apparel Co,Bottomwear,7,1755893.31,67.14,3,3.43
+2024-03,Chennai Apparel Co,Dresses,5,1801668.8,46.4,3,17.4
+2024-03,Chennai Apparel Co,Ethnic,9,5442310.58,60.0,5,5.67
+2024-03,Chennai Apparel Co,Footwear,7,2926811.51,45.43,5,8.57
+2024-03,Chennai Apparel Co,Topwear,9,2256004.44,63.56,8,14.11
+2024-03,Delhi Garment Hub,Accessories,7,1699201.67,69.71,3,2.43
+2024-03,Delhi Garment Hub,Bottomwear,12,3829532.4,61.58,6,5.0
+2024-03,Delhi Garment Hub,Dresses,7,2837627.53,69.71,5,4.43
+2024-03,Delhi Garment Hub,Ethnic,6,2947402.74,53.33,4,10.17
+2024-03,Delhi Garment Hub,Footwear,4,2277162.98,53.25,1,10.25
+2024-03,Delhi Garment Hub,Topwear,10,2499272.97,71.6,4,5.8
+2024-03,Jaipur Ethnic Works,Accessories,9,1952945.71,67.56,8,7.89
+2024-03,Jaipur Ethnic Works,Bottomwear,12,4041085.37,63.58,7,5.33
+2024-03,Jaipur Ethnic Works,Dresses,4,1095872.53,53.5,4,19.25
+2024-03,Jaipur Ethnic Works,Ethnic,7,2825240.67,56.0,5,9.0
+2024-03,Jaipur Ethnic Works,Footwear,4,2666331.56,65.5,0,0.0
+2024-03,Jaipur Ethnic Works,Topwear,19,5103270.12,59.47,10,7.32
+2024-03,Ludhiana Knits,Accessories,7,1513410.28,65.71,4,3.14
+2024-03,Ludhiana Knits,Bottomwear,8,2403026.58,67.62,6,10.5
+2024-03,Ludhiana Knits,Dresses,5,1981923.07,75.4,2,5.0
+2024-03,Ludhiana Knits,Ethnic,5,2142431.83,57.0,2,3.2
+2024-03,Ludhiana Knits,Footwear,5,2350583.0,52.8,2,4.0
+2024-03,Ludhiana Knits,Topwear,5,1261410.01,54.4,3,5.8
+2024-03,Mumbai Exports Ltd,Accessories,6,1477205.36,55.67,4,6.33
+2024-03,Mumbai Exports Ltd,Bottomwear,5,1233602.05,56.8,3,4.2
+2024-03,Mumbai Exports Ltd,Dresses,5,2052869.24,68.8,3,5.2
+2024-03,Mumbai Exports Ltd,Ethnic,4,3298944.51,51.0,3,3.75
+2024-03,Mumbai Exports Ltd,Footwear,4,1639992.02,66.25,0,0.0
+2024-03,Mumbai Exports Ltd,Topwear,15,3653163.41,63.13,10,11.13
+2024-03,Surat Fabrics Co,Accessories,11,1870384.39,63.18,7,9.36
+2024-03,Surat Fabrics Co,Bottomwear,7,3423577.76,59.86,5,7.86
+2024-03,Surat Fabrics Co,Dresses,4,2121033.87,52.25,3,7.0
+2024-03,Surat Fabrics Co,Ethnic,8,4587010.78,61.62,4,7.0
+2024-03,Surat Fabrics Co,Footwear,7,4476902.26,65.57,3,5.86
+2024-03,Surat Fabrics Co,Topwear,8,1605957.66,58.25,5,7.88
+2024-03,Tiruppur Mills,Accessories,12,2201843.95,61.25,7,9.0
+2024-03,Tiruppur Mills,Bottomwear,9,1981504.95,58.56,2,1.11
+2024-03,Tiruppur Mills,Dresses,5,2063683.28,60.2,3,2.4
+2024-03,Tiruppur Mills,Ethnic,9,4951757.57,61.22,5,10.0
+2024-03,Tiruppur Mills,Footwear,7,2546292.74,55.29,5,11.14
+2024-03,Tiruppur Mills,Topwear,8,1668310.7,72.12,7,8.12
+2024-04,Bangalore Weaves,Accessories,10,2614465.71,55.1,4,5.3
+2024-04,Bangalore Weaves,Bottomwear,11,3619253.31,64.0,5,6.64
+2024-04,Bangalore Weaves,Dresses,5,2091004.16,63.4,3,3.6
+2024-04,Bangalore Weaves,Ethnic,8,3798931.04,49.62,5,8.25
+2024-04,Bangalore Weaves,Footwear,8,7712067.95,54.25,6,11.5
+2024-04,Bangalore Weaves,Topwear,8,2027604.32,66.12,5,15.25
+2024-04,Chennai Apparel Co,Accessories,5,1067280.38,60.2,3,8.6
+2024-04,Chennai Apparel Co,Bottomwear,11,3258210.36,60.0,6,5.64
+2024-04,Chennai Apparel Co,Dresses,4,1104420.02,66.75,2,2.25
+2024-04,Chennai Apparel Co,Ethnic,3,1557409.73,55.67,3,31.0
+2024-04,Chennai Apparel Co,Footwear,11,5942385.84,60.73,8,11.0
+2024-04,Chennai Apparel Co,Topwear,8,1702011.53,63.75,5,14.88
+2024-04,Delhi Garment Hub,Accessories,6,958604.22,61.5,3,3.83
+2024-04,Delhi Garment Hub,Bottomwear,10,2478152.37,57.4,8,14.2
+2024-04,Delhi Garment Hub,Dresses,5,2909037.71,55.8,4,9.4
+2024-04,Delhi Garment Hub,Ethnic,5,1823676.07,65.6,5,8.0
+2024-04,Delhi Garment Hub,Footwear,6,3906190.67,76.5,4,14.33
+2024-04,Delhi Garment Hub,Topwear,9,2639806.21,55.22,4,8.33
+2024-04,Jaipur Ethnic Works,Accessories,12,2092640.87,57.5,4,2.0
+2024-04,Jaipur Ethnic Works,Bottomwear,8,2275027.32,70.38,6,3.25
+2024-04,Jaipur Ethnic Works,Dresses,5,1908291.85,48.0,2,5.0
+2024-04,Jaipur Ethnic Works,Ethnic,7,3308346.69,72.14,5,10.29
+2024-04,Jaipur Ethnic Works,Footwear,10,5699627.52,73.8,7,4.3
+2024-04,Jaipur Ethnic Works,Topwear,10,3019387.08,53.0,6,7.7
+2024-04,Ludhiana Knits,Accessories,8,1735143.2,65.25,5,5.38
+2024-04,Ludhiana Knits,Bottomwear,6,2053460.32,56.67,2,1.67
+2024-04,Ludhiana Knits,Dresses,1,374004.77,62.0,0,0.0
+2024-04,Ludhiana Knits,Ethnic,9,3272207.67,57.33,4,6.44
+2024-04,Ludhiana Knits,Footwear,5,2937367.42,52.2,4,6.4
+2024-04,Ludhiana Knits,Topwear,9,2393883.55,55.44,9,11.11
+2024-04,Mumbai Exports Ltd,Accessories,9,1644542.58,56.78,3,5.33
+2024-04,Mumbai Exports Ltd,Bottomwear,8,1846890.62,57.75,4,4.38
+2024-04,Mumbai Exports Ltd,Dresses,6,1275073.87,63.67,3,6.67
+2024-04,Mumbai Exports Ltd,Ethnic,12,4770567.17,63.17,5,3.25
+2024-04,Mumbai Exports Ltd,Footwear,9,4271834.74,56.56,6,6.0
+2024-04,Mumbai Exports Ltd,Topwear,8,2207170.05,68.0,5,10.88
+2024-04,Surat Fabrics Co,Accessories,3,863805.36,72.0,2,7.33
+2024-04,Surat Fabrics Co,Bottomwear,9,2555261.38,60.11,4,3.33
+2024-04,Surat Fabrics Co,Dresses,9,4189090.57,57.56,7,12.33
+2024-04,Surat Fabrics Co,Ethnic,9,4111006.83,62.11,5,11.33
+2024-04,Surat Fabrics Co,Footwear,5,2359726.1,68.8,1,2.2
+2024-04,Surat Fabrics Co,Topwear,7,2251093.89,74.29,3,4.43
+2024-04,Tiruppur Mills,Accessories,6,1545630.93,60.67,5,16.67
+2024-04,Tiruppur Mills,Bottomwear,14,3784946.07,61.43,9,8.14
+2024-04,Tiruppur Mills,Dresses,3,824775.0,42.33,2,7.67
+2024-04,Tiruppur Mills,Ethnic,6,4266224.65,69.0,4,7.33
+2024-04,Tiruppur Mills,Footwear,7,3274969.76,49.0,4,12.14
+2024-04,Tiruppur Mills,Topwear,8,3092010.69,69.5,6,7.38
+2024-05,Bangalore Weaves,Accessories,13,1951372.13,54.15,5,4.23
+2024-05,Bangalore Weaves,Bottomwear,5,974963.26,52.8,2,3.4
+2024-05,Bangalore Weaves,Dresses,7,3501541.92,54.14,3,8.43
+2024-05,Bangalore Weaves,Ethnic,9,3675218.32,56.56,6,12.33
+2024-05,Bangalore Weaves,Footwear,13,6983897.1,61.31,8,3.38
+2024-05,Bangalore Weaves,Topwear,6,1508769.11,57.67,3,6.83
+2024-05,Chennai Apparel Co,Accessories,9,1712833.53,53.44,6,8.0
+2024-05,Chennai Apparel Co,Bottomwear,6,1510856.0,56.33,6,9.33
+2024-05,Chennai Apparel Co,Dresses,4,1118168.35,60.5,4,15.0
+2024-05,Chennai Apparel Co,Ethnic,5,1889815.53,58.2,1,3.8
+2024-05,Chennai Apparel Co,Footwear,11,5169933.63,56.27,3,6.09
+2024-05,Chennai Apparel Co,Topwear,6,1760099.69,66.0,3,5.5
+2024-05,Delhi Garment Hub,Accessories,9,1984664.98,61.11,3,2.89
+2024-05,Delhi Garment Hub,Bottomwear,7,1453290.03,57.57,1,0.14
+2024-05,Delhi Garment Hub,Dresses,7,2734222.43,61.43,6,6.43
+2024-05,Delhi Garment Hub,Ethnic,9,4307031.95,63.0,4,9.78
+2024-05,Delhi Garment Hub,Footwear,6,3051741.68,67.67,0,0.0
+2024-05,Delhi Garment Hub,Topwear,4,1423585.65,44.5,3,11.75
+2024-05,Jaipur Ethnic Works,Accessories,8,1907584.21,64.75,6,6.12
+2024-05,Jaipur Ethnic Works,Bottomwear,14,5185729.51,60.57,10,7.14
+2024-05,Jaipur Ethnic Works,Dresses,3,1199529.97,84.0,1,3.67
+2024-05,Jaipur Ethnic Works,Ethnic,3,1467633.04,56.0,3,22.33
+2024-05,Jaipur Ethnic Works,Footwear,8,4939236.39,52.88,4,3.25
+2024-05,Jaipur Ethnic Works,Topwear,10,2802859.39,68.0,7,10.4
+2024-05,Ludhiana Knits,Accessories,8,1346660.04,67.62,4,5.12
+2024-05,Ludhiana Knits,Bottomwear,10,3912292.68,59.6,4,2.3
+2024-05,Ludhiana Knits,Dresses,5,2043610.18,54.2,5,11.6
+2024-05,Ludhiana Knits,Ethnic,5,1606719.75,62.4,1,2.8
+2024-05,Ludhiana Knits,Footwear,6,3782395.19,51.17,2,2.83
+2024-05,Ludhiana Knits,Topwear,9,2404542.51,55.89,6,8.67
+2024-05,Mumbai Exports Ltd,Accessories,10,1810691.31,51.0,5,6.8
+2024-05,Mumbai Exports Ltd,Bottomwear,8,2307391.2,49.88,5,8.62
+2024-05,Mumbai Exports Ltd,Dresses,10,4238942.06,56.1,3,3.4
+2024-05,Mumbai Exports Ltd,Ethnic,11,4848470.49,49.91,9,7.91
+2024-05,Mumbai Exports Ltd,Footwear,11,5371894.41,61.91,7,10.73
+2024-05,Mumbai Exports Ltd,Topwear,10,3096805.81,62.0,8,14.3
+2024-05,Surat Fabrics Co,Accessories,9,1527758.12,53.89,8,14.22
+2024-05,Surat Fabrics Co,Bottomwear,3,1587188.71,66.0,1,2.33
+2024-05,Surat Fabrics Co,Dresses,5,1928939.11,62.2,2,4.2
+2024-05,Surat Fabrics Co,Ethnic,4,2128593.35,77.0,3,13.25
+2024-05,Surat Fabrics Co,Footwear,13,6968347.19,64.69,7,5.31
+2024-05,Surat Fabrics Co,Topwear,9,2183723.48,53.33,7,10.11
+2024-05,Tiruppur Mills,Accessories,4,1184990.01,55.0,3,9.0
+2024-05,Tiruppur Mills,Bottomwear,11,3434173.18,60.82,5,12.73
+2024-05,Tiruppur Mills,Dresses,8,3615709.11,63.12,4,3.5
+2024-05,Tiruppur Mills,Ethnic,7,3470846.21,61.0,4,9.43
+2024-05,Tiruppur Mills,Footwear,8,5706713.05,64.62,4,5.75
+2024-05,Tiruppur Mills,Topwear,11,2681413.17,54.18,8,6.55
+2024-06,Bangalore Weaves,Accessories,9,2175280.82,62.22,4,4.22
+2024-06,Bangalore Weaves,Bottomwear,10,2826862.46,61.1,6,7.4
+2024-06,Bangalore Weaves,Dresses,6,2978030.99,68.5,4,10.33
+2024-06,Bangalore Weaves,Ethnic,5,2332074.06,57.8,3,5.8
+2024-06,Bangalore Weaves,Footwear,9,4839460.6,59.0,7,11.11
+2024-06,Bangalore Weaves,Topwear,11,3132482.28,64.55,7,12.55
+2024-06,Chennai Apparel Co,Accessories,7,1225736.68,60.14,5,10.43
+2024-06,Chennai Apparel Co,Bottomwear,10,3899113.12,61.2,6,7.1
+2024-06,Chennai Apparel Co,Dresses,1,66255.99,69.0,1,2.0
+2024-06,Chennai Apparel Co,Ethnic,9,3392125.68,49.44,6,9.44
+2024-06,Chennai Apparel Co,Footwear,11,6717796.76,60.73,5,7.91
+2024-06,Chennai Apparel Co,Topwear,11,3816865.39,54.36,7,5.64
+2024-06,Delhi Garment Hub,Accessories,5,533505.92,52.4,5,10.4
+2024-06,Delhi Garment Hub,Bottomwear,11,4002439.58,61.27,5,3.27
+2024-06,Delhi Garment Hub,Dresses,8,2809043.97,61.38,2,0.88
+2024-06,Delhi Garment Hub,Ethnic,6,3095511.48,57.17,5,3.67
+2024-06,Delhi Garment Hub,Footwear,6,3718417.6,66.17,6,18.67
+2024-06,Delhi Garment Hub,Topwear,6,1238191.87,65.5,3,2.5
+2024-06,Jaipur Ethnic Works,Accessories,5,1129695.5,63.0,3,10.2
+2024-06,Jaipur Ethnic Works,Bottomwear,4,1361946.2,58.25,2,13.25
+2024-06,Jaipur Ethnic Works,Dresses,7,2923099.26,61.29,4,12.0
+2024-06,Jaipur Ethnic Works,Ethnic,11,5461768.68,61.27,8,8.91
+2024-06,Jaipur Ethnic Works,Footwear,9,4773631.81,59.22,6,9.0
+2024-06,Jaipur Ethnic Works,Topwear,3,339830.87,52.67,2,4.33
+2024-06,Ludhiana Knits,Accessories,8,1377959.08,58.25,7,7.88
+2024-06,Ludhiana Knits,Bottomwear,6,2062555.43,63.67,4,9.33
+2024-06,Ludhiana Knits,Dresses,7,3734697.15,67.0,4,9.0
+2024-06,Ludhiana Knits,Ethnic,4,1461622.41,49.75,2,9.0
+2024-06,Ludhiana Knits,Footwear,8,4587019.05,59.25,4,3.25
+2024-06,Ludhiana Knits,Topwear,9,2367459.73,61.78,8,14.89
+2024-06,Mumbai Exports Ltd,Accessories,5,963075.65,62.6,5,10.6
+2024-06,Mumbai Exports Ltd,Bottomwear,6,1913757.23,53.83,2,8.5
+2024-06,Mumbai Exports Ltd,Dresses,4,1589513.76,58.25,1,1.75
+2024-06,Mumbai Exports Ltd,Ethnic,6,2373741.83,66.17,3,3.0
+2024-06,Mumbai Exports Ltd,Footwear,6,3106085.79,54.83,4,5.0
+2024-06,Mumbai Exports Ltd,Topwear,16,3893672.09,58.62,8,7.88
+2024-06,Surat Fabrics Co,Accessories,7,1444650.14,56.71,5,8.14
+2024-06,Surat Fabrics Co,Bottomwear,7,1833359.68,68.29,4,10.57
+2024-06,Surat Fabrics Co,Dresses,4,1635025.84,66.25,2,8.25
+2024-06,Surat Fabrics Co,Ethnic,8,4729776.12,62.12,6,9.38
+2024-06,Surat Fabrics Co,Footwear,5,2404506.06,59.2,2,1.2
+2024-06,Surat Fabrics Co,Topwear,5,1991415.12,52.2,2,1.4
+2024-06,Tiruppur Mills,Accessories,8,1016551.22,58.25,1,0.88
+2024-06,Tiruppur Mills,Bottomwear,11,3144852.14,59.09,6,9.36
+2024-06,Tiruppur Mills,Dresses,5,2052875.09,63.8,4,9.4
+2024-06,Tiruppur Mills,Ethnic,3,1774123.59,73.0,2,1.67
+2024-06,Tiruppur Mills,Footwear,4,1780404.76,65.0,0,0.0
+2024-06,Tiruppur Mills,Topwear,5,711576.59,65.2,4,14.2
+2024-07,Bangalore Weaves,Accessories,7,1366104.3,67.0,3,2.71
+2024-07,Bangalore Weaves,Bottomwear,7,2926354.35,64.86,5,9.71
+2024-07,Bangalore Weaves,Dresses,3,1636666.1,50.0,1,3.67
+2024-07,Bangalore Weaves,Ethnic,5,2167731.11,48.6,3,7.8
+2024-07,Bangalore Weaves,Footwear,7,3084448.43,42.29,6,10.43
+2024-07,Bangalore Weaves,Topwear,11,3310716.23,57.0,8,10.0
+2024-07,Chennai Apparel Co,Accessories,9,1627388.7,59.11,6,10.78
+2024-07,Chennai Apparel Co,Bottomwear,11,4590275.61,58.09,2,3.45
+2024-07,Chennai Apparel Co,Dresses,6,1714777.93,45.67,6,13.33
+2024-07,Chennai Apparel Co,Ethnic,6,2560026.39,68.33,3,5.5
+2024-07,Chennai Apparel Co,Footwear,8,4368800.58,58.75,5,5.12
+2024-07,Chennai Apparel Co,Topwear,9,1427871.17,67.11,6,10.44
+2024-07,Delhi Garment Hub,Accessories,7,1319897.31,52.86,4,11.57
+2024-07,Delhi Garment Hub,Bottomwear,11,4168792.35,66.45,7,6.91
+2024-07,Delhi Garment Hub,Dresses,7,3818316.69,59.71,6,5.43
+2024-07,Delhi Garment Hub,Ethnic,7,2411501.16,59.57,4,6.43
+2024-07,Delhi Garment Hub,Footwear,9,4943684.28,68.89,2,3.44
+2024-07,Delhi Garment Hub,Topwear,7,1507253.34,53.0,6,12.29
+2024-07,Jaipur Ethnic Works,Accessories,6,1707225.16,52.83,4,9.0
+2024-07,Jaipur Ethnic Works,Bottomwear,11,3153471.19,61.91,7,11.45
+2024-07,Jaipur Ethnic Works,Dresses,3,470643.05,47.67,2,3.33
+2024-07,Jaipur Ethnic Works,Ethnic,7,2767985.02,63.43,5,6.29
+2024-07,Jaipur Ethnic Works,Footwear,9,2936479.13,63.44,6,8.33
+2024-07,Jaipur Ethnic Works,Topwear,6,1188773.23,51.5,3,8.17
+2024-07,Ludhiana Knits,Accessories,12,2326813.82,61.08,4,3.75
+2024-07,Ludhiana Knits,Bottomwear,5,1328776.75,72.2,2,11.2
+2024-07,Ludhiana Knits,Dresses,7,4234184.4,65.86,4,6.71
+2024-07,Ludhiana Knits,Ethnic,8,3151690.18,58.62,6,10.5
+2024-07,Ludhiana Knits,Footwear,10,6141883.81,56.3,6,2.2
+2024-07,Ludhiana Knits,Topwear,9,2676610.74,59.67,4,5.89
+2024-07,Mumbai Exports Ltd,Accessories,8,1663748.72,58.88,5,6.5
+2024-07,Mumbai Exports Ltd,Bottomwear,2,1151745.51,72.0,1,2.5
+2024-07,Mumbai Exports Ltd,Dresses,4,2080104.59,74.75,4,11.5
+2024-07,Mumbai Exports Ltd,Ethnic,5,3061071.52,62.8,5,15.2
+2024-07,Mumbai Exports Ltd,Footwear,7,4570163.4,55.14,2,2.71
+2024-07,Mumbai Exports Ltd,Topwear,10,2224296.52,56.4,7,6.4
+2024-07,Surat Fabrics Co,Accessories,9,1771846.38,59.44,6,6.89
+2024-07,Surat Fabrics Co,Bottomwear,3,817263.26,45.33,2,1.67
+2024-07,Surat Fabrics Co,Dresses,6,2281266.87,62.17,3,7.67
+2024-07,Surat Fabrics Co,Ethnic,7,3925683.22,57.0,6,3.43
+2024-07,Surat Fabrics Co,Footwear,5,2414376.79,60.4,3,8.0
+2024-07,Surat Fabrics Co,Topwear,17,4999655.31,55.76,10,4.82
+2024-07,Tiruppur Mills,Accessories,13,2518137.79,55.15,7,4.92
+2024-07,Tiruppur Mills,Bottomwear,2,651516.8,80.5,1,7.5
+2024-07,Tiruppur Mills,Dresses,1,368807.88,60.0,1,15.0
+2024-07,Tiruppur Mills,Ethnic,8,3352537.34,60.5,4,9.0
+2024-07,Tiruppur Mills,Footwear,6,3301955.89,63.67,4,15.0
+2024-07,Tiruppur Mills,Topwear,14,3085814.43,61.93,12,14.21
+2024-08,Bangalore Weaves,Accessories,5,615054.74,60.6,3,11.0
+2024-08,Bangalore Weaves,Bottomwear,7,2542024.81,57.57,5,4.43
+2024-08,Bangalore Weaves,Dresses,8,3158763.98,60.5,7,9.12
+2024-08,Bangalore Weaves,Ethnic,8,3173082.48,68.75,5,6.75
+2024-08,Bangalore Weaves,Footwear,7,3904989.9,60.43,5,15.14
+2024-08,Bangalore Weaves,Topwear,10,3314489.29,60.0,8,7.6
+2024-08,Chennai Apparel Co,Accessories,5,850065.26,54.2,5,17.8
+2024-08,Chennai Apparel Co,Bottomwear,8,3078612.41,55.25,4,8.25
+2024-08,Chennai Apparel Co,Dresses,6,1957702.19,56.0,4,6.33
+2024-08,Chennai Apparel Co,Ethnic,6,2548201.69,55.33,4,10.0
+2024-08,Chennai Apparel Co,Footwear,6,3479475.81,60.5,3,11.5
+2024-08,Chennai Apparel Co,Topwear,13,3654786.87,64.69,9,9.77
+2024-08,Delhi Garment Hub,Accessories,6,1112664.52,67.0,2,1.67
+2024-08,Delhi Garment Hub,Bottomwear,5,2072344.56,71.2,3,2.8
+2024-08,Delhi Garment Hub,Dresses,6,2515608.8,73.17,3,6.5
+2024-08,Delhi Garment Hub,Ethnic,8,3207926.3,62.0,6,16.12
+2024-08,Delhi Garment Hub,Footwear,8,6597908.24,50.62,4,3.12
+2024-08,Delhi Garment Hub,Topwear,10,2379442.62,59.1,2,0.4
+2024-08,Jaipur Ethnic Works,Accessories,7,1043928.82,53.14,5,9.57
+2024-08,Jaipur Ethnic Works,Bottomwear,11,3713737.32,68.0,8,7.36
+2024-08,Jaipur Ethnic Works,Dresses,7,3274208.1,65.57,5,7.0
+2024-08,Jaipur Ethnic Works,Ethnic,7,3401764.01,63.0,3,2.43
+2024-08,Jaipur Ethnic Works,Footwear,4,1653220.79,64.75,3,8.25
+2024-08,Jaipur Ethnic Works,Topwear,6,1233357.8,68.0,5,15.17
+2024-08,Ludhiana Knits,Accessories,10,1538036.24,52.5,5,4.8
+2024-08,Ludhiana Knits,Bottomwear,11,2740303.37,55.64,6,5.91
+2024-08,Ludhiana Knits,Dresses,10,4218831.73,63.2,7,6.8
+2024-08,Ludhiana Knits,Ethnic,6,2051847.98,56.5,1,0.5
+2024-08,Ludhiana Knits,Footwear,6,3443505.38,72.67,4,8.17
+2024-08,Ludhiana Knits,Topwear,11,2760624.22,60.27,5,6.55
+2024-08,Mumbai Exports Ltd,Accessories,8,1468828.86,63.62,6,13.12
+2024-08,Mumbai Exports Ltd,Bottomwear,7,1953335.99,64.71,3,5.29
+2024-08,Mumbai Exports Ltd,Dresses,7,3171655.11,54.71,3,5.71
+2024-08,Mumbai Exports Ltd,Ethnic,5,1772581.68,55.4,3,3.6
+2024-08,Mumbai Exports Ltd,Footwear,5,3714469.72,60.6,2,1.6
+2024-08,Mumbai Exports Ltd,Topwear,15,4686526.58,67.27,9,7.27
+2024-08,Surat Fabrics Co,Accessories,10,1655976.67,69.6,5,6.9
+2024-08,Surat Fabrics Co,Bottomwear,9,2291729.04,52.22,2,6.0
+2024-08,Surat Fabrics Co,Dresses,5,1875222.26,59.4,0,0.0
+2024-08,Surat Fabrics Co,Ethnic,9,3121386.41,59.78,4,2.44
+2024-08,Surat Fabrics Co,Footwear,8,3636361.7,70.25,4,3.62
+2024-08,Surat Fabrics Co,Topwear,6,1460800.89,71.0,4,8.0
+2024-08,Tiruppur Mills,Accessories,3,341444.39,71.67,1,6.33
+2024-08,Tiruppur Mills,Bottomwear,9,2576364.93,56.78,4,4.67
+2024-08,Tiruppur Mills,Dresses,4,1634369.46,64.25,1,9.25
+2024-08,Tiruppur Mills,Ethnic,12,5643404.29,59.25,8,8.25
+2024-08,Tiruppur Mills,Footwear,10,5365071.44,67.6,6,5.9
+2024-08,Tiruppur Mills,Topwear,6,1098028.77,58.5,3,2.67
+2024-09,Bangalore Weaves,Accessories,5,556696.34,59.4,3,7.8
+2024-09,Bangalore Weaves,Bottomwear,4,1673210.83,46.5,2,6.0
+2024-09,Bangalore Weaves,Dresses,7,2924622.26,60.0,6,14.29
+2024-09,Bangalore Weaves,Ethnic,6,4172462.49,59.33,5,3.33
+2024-09,Bangalore Weaves,Footwear,8,6267997.1,56.62,4,4.25
+2024-09,Bangalore Weaves,Topwear,9,2353965.22,66.44,8,4.89
+2024-09,Chennai Apparel Co,Accessories,9,1802325.77,58.78,4,2.11
+2024-09,Chennai Apparel Co,Bottomwear,9,3353859.72,65.0,8,11.78
+2024-09,Chennai Apparel Co,Dresses,7,1089492.4,57.86,7,13.14
+2024-09,Chennai Apparel Co,Ethnic,8,4236845.9,62.25,5,7.88
+2024-09,Chennai Apparel Co,Footwear,9,6226024.9,66.78,4,2.11
+2024-09,Chennai Apparel Co,Topwear,5,1268931.9,68.4,4,17.6
+2024-09,Delhi Garment Hub,Accessories,8,1173015.46,62.62,5,6.38
+2024-09,Delhi Garment Hub,Bottomwear,11,3049371.86,58.45,7,6.36
+2024-09,Delhi Garment Hub,Dresses,8,2368346.48,60.12,4,3.38
+2024-09,Delhi Garment Hub,Ethnic,8,4268113.67,70.12,5,10.0
+2024-09,Delhi Garment Hub,Footwear,10,4392475.71,56.0,5,7.6
+2024-09,Delhi Garment Hub,Topwear,9,2610449.71,61.78,5,3.56
+2024-09,Jaipur Ethnic Works,Accessories,12,2031004.41,64.67,3,3.92
+2024-09,Jaipur Ethnic Works,Bottomwear,9,3143030.55,54.56,5,6.11
+2024-09,Jaipur Ethnic Works,Dresses,9,3102629.21,67.89,4,2.67
+2024-09,Jaipur Ethnic Works,Ethnic,8,3930598.89,64.75,5,8.75
+2024-09,Jaipur Ethnic Works,Footwear,9,7612799.65,66.11,7,3.33
+2024-09,Jaipur Ethnic Works,Topwear,5,1353377.44,69.0,4,14.4
+2024-09,Ludhiana Knits,Accessories,10,1670350.09,58.6,8,5.7
+2024-09,Ludhiana Knits,Bottomwear,10,2312088.95,49.0,4,9.0
+2024-09,Ludhiana Knits,Dresses,6,2145883.18,64.67,3,6.17
+2024-09,Ludhiana Knits,Ethnic,6,3879501.31,57.5,4,12.67
+2024-09,Ludhiana Knits,Footwear,10,6076398.25,57.7,6,12.2
+2024-09,Ludhiana Knits,Topwear,7,1988583.13,59.29,4,9.29
+2024-09,Mumbai Exports Ltd,Accessories,6,1493852.4,63.67,4,12.33
+2024-09,Mumbai Exports Ltd,Bottomwear,11,2475789.78,54.27,9,10.73
+2024-09,Mumbai Exports Ltd,Dresses,3,1790188.31,59.33,3,7.67
+2024-09,Mumbai Exports Ltd,Ethnic,2,1255754.77,41.0,2,10.0
+2024-09,Mumbai Exports Ltd,Footwear,1,957064.95,79.0,1,27.0
+2024-09,Mumbai Exports Ltd,Topwear,10,2667116.25,60.7,5,9.5
+2024-09,Surat Fabrics Co,Accessories,7,801962.08,53.43,5,12.57
+2024-09,Surat Fabrics Co,Bottomwear,10,3094812.85,63.0,3,6.1
+2024-09,Surat Fabrics Co,Dresses,6,3110793.98,57.83,5,6.5
+2024-09,Surat Fabrics Co,Ethnic,2,632871.44,63.0,2,3.5
+2024-09,Surat Fabrics Co,Footwear,6,2603678.55,52.17,2,7.17
+2024-09,Surat Fabrics Co,Topwear,13,2281336.52,61.77,10,10.69
+2024-09,Tiruppur Mills,Accessories,10,1598143.72,58.1,8,7.7
+2024-09,Tiruppur Mills,Bottomwear,7,1991076.66,65.0,4,5.43
+2024-09,Tiruppur Mills,Dresses,8,3041662.97,68.25,5,8.38
+2024-09,Tiruppur Mills,Ethnic,7,2973781.01,63.86,4,3.71
+2024-09,Tiruppur Mills,Footwear,4,2848236.63,65.25,3,4.25
+2024-09,Tiruppur Mills,Topwear,7,1863085.79,61.71,3,6.0
+2024-10,Bangalore Weaves,Accessories,5,1154254.72,61.8,1,0.2
+2024-10,Bangalore Weaves,Bottomwear,9,2831066.94,66.0,5,9.56
+2024-10,Bangalore Weaves,Dresses,2,393889.95,64.0,1,2.5
+2024-10,Bangalore Weaves,Ethnic,8,4113567.9,58.88,4,7.0
+2024-10,Bangalore Weaves,Footwear,9,4542778.71,61.89,5,14.44
+2024-10,Bangalore Weaves,Topwear,8,2042421.53,59.12,5,5.0
+2024-10,Chennai Apparel Co,Accessories,8,1425484.99,60.75,5,10.12
+2024-10,Chennai Apparel Co,Bottomwear,6,1432249.71,55.67,3,10.0
+2024-10,Chennai Apparel Co,Dresses,10,3593218.7,63.5,7,11.3
+2024-10,Chennai Apparel Co,Ethnic,6,2562158.89,52.67,2,1.83
+2024-10,Chennai Apparel Co,Footwear,4,1950624.55,81.0,2,3.75
+2024-10,Chennai Apparel Co,Topwear,13,3794892.14,63.08,10,13.46
+2024-10,Delhi Garment Hub,Accessories,7,1137340.78,60.71,7,6.43
+2024-10,Delhi Garment Hub,Bottomwear,11,4289171.12,61.55,5,9.55
+2024-10,Delhi Garment Hub,Dresses,6,2758131.12,60.5,4,5.33
+2024-10,Delhi Garment Hub,Ethnic,10,4793942.78,58.6,8,7.5
+2024-10,Delhi Garment Hub,Footwear,9,4325509.7,58.89,7,6.56
+2024-10,Delhi Garment Hub,Topwear,7,978233.64,53.57,5,10.57
+2024-10,Jaipur Ethnic Works,Accessories,8,1407838.38,68.0,5,5.12
+2024-10,Jaipur Ethnic Works,Bottomwear,5,2186277.88,67.0,4,12.2
+2024-10,Jaipur Ethnic Works,Dresses,4,1721447.6,51.5,2,2.5
+2024-10,Jaipur Ethnic Works,Ethnic,8,4980270.57,68.75,5,10.25
+2024-10,Jaipur Ethnic Works,Footwear,4,2054212.08,67.75,0,0.0
+2024-10,Jaipur Ethnic Works,Topwear,10,2050818.82,52.1,5,4.8
+2024-10,Ludhiana Knits,Accessories,11,2013650.08,59.55,8,9.0
+2024-10,Ludhiana Knits,Bottomwear,4,704267.01,67.5,1,0.5
+2024-10,Ludhiana Knits,Dresses,7,2818258.81,58.86,5,6.0
+2024-10,Ludhiana Knits,Ethnic,3,862856.84,63.0,2,6.67
+2024-10,Ludhiana Knits,Footwear,8,5935934.45,53.75,6,4.5
+2024-10,Ludhiana Knits,Topwear,10,2195005.32,60.8,6,7.1
+2024-10,Mumbai Exports Ltd,Accessories,6,998527.43,56.5,2,3.5
+2024-10,Mumbai Exports Ltd,Bottomwear,9,3140787.68,65.0,6,5.89
+2024-10,Mumbai Exports Ltd,Dresses,2,1174144.13,42.0,1,12.0
+2024-10,Mumbai Exports Ltd,Ethnic,9,2757666.13,53.0,5,5.67
+2024-10,Mumbai Exports Ltd,Footwear,6,3741216.03,68.0,3,4.33
+2024-10,Mumbai Exports Ltd,Topwear,14,4083628.73,59.21,5,4.14
+2024-10,Surat Fabrics Co,Accessories,9,1825854.24,60.0,4,2.33
+2024-10,Surat Fabrics Co,Bottomwear,11,3125742.89,60.18,9,6.36
+2024-10,Surat Fabrics Co,Dresses,10,3018445.56,64.7,2,2.2
+2024-10,Surat Fabrics Co,Ethnic,11,5311923.1,52.91,6,7.09
+2024-10,Surat Fabrics Co,Footwear,6,2843840.27,61.5,3,6.33
+2024-10,Surat Fabrics Co,Topwear,7,2320099.25,58.86,4,7.43
+2024-10,Tiruppur Mills,Accessories,9,1042805.23,66.11,6,3.44
+2024-10,Tiruppur Mills,Bottomwear,4,1693551.39,39.5,4,9.25
+2024-10,Tiruppur Mills,Dresses,6,2231853.04,51.0,3,5.33
+2024-10,Tiruppur Mills,Ethnic,7,2981066.52,64.14,4,10.0
+2024-10,Tiruppur Mills,Footwear,4,2542502.92,70.5,3,2.5
+2024-10,Tiruppur Mills,Topwear,14,5188402.56,58.93,9,9.79
